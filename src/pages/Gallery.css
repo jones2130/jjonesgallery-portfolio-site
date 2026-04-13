@@ -1,0 +1,25 @@
+.gallery-page__toolbar {
+  display: flex;
+  gap: var(--space-md);
+  flex-wrap: wrap;
+  align-items: flex-end;
+  margin-bottom: var(--space-md);
+}
+
+.gallery-page__toolbar .search-bar {
+  flex: 1;
+  min-width: 220px;
+}
+
+.gallery-page__count {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-lg);
+}
+
+.gallery-page__empty {
+  color: var(--color-text-muted);
+  font-style: italic;
+  text-align: center;
+  padding: var(--space-2xl) 0;
+}

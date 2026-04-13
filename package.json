@@ -1,0 +1,23 @@
+{
+  "name": "jjonesgallery-portfolio-site",
+  "version": "0.1.0",
+  "description": "The portfolio website for James J Jones Gallery",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "James J Jones",
+  "license": "ISC",
+  "dependencies": {
+    "fuse.js": "^7.3.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-router-dom": "^7.14.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.0",
+    "vite": "^8.0.8"
+  }
+}

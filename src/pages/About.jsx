@@ -1,0 +1,48 @@
+import React from 'react';
+import './About.css';
+
+export default function About() {
+  return (
+    <div className="about-page page-section">
+      <div className="container about-page__layout">
+        {/* Sidebar placeholder for portrait */}
+        <div className="about-page__image-wrap">
+          <div className="about-page__image-placeholder" aria-hidden="true">
+            <span>Photo coming soon</span>
+          </div>
+        </div>
+
+        {/* Text content */}
+        <div className="about-page__text fade-up">
+          <p className="about-page__eyebrow">About the Artist</p>
+          <h1 className="page-title">James J Jones</h1>
+
+          <p>
+            James J Jones is a visual artist working primarily in oil, acrylic, and mixed media.
+            His work explores the interplay of light, landscape, and memory — from intimate figure
+            studies to expansive nature scenes.
+          </p>
+
+          <p>
+            Rooted in observational painting and drawing, James's practice balances careful
+            technical study with an openness to accident and improvisation. He works both en
+            plein air and in the studio, often returning to the same subject across different
+            seasons and media.
+          </p>
+
+          <p>
+            Prints and merchandise are available through{' '}
+            <a href="https://www.redbubble.com/" target="_blank" rel="noopener noreferrer">
+              Redbubble
+            </a>
+            , and originals can be purchased directly through his{' '}
+            <a href="https://ko-fi.com/" target="_blank" rel="noopener noreferrer">
+              Ko-Fi shop
+            </a>
+            .
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}

@@ -1,0 +1,35 @@
+.search-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-bar__icon {
+  position: absolute;
+  left: 0.75rem;
+  color: var(--color-text-muted);
+  pointer-events: none;
+  display: flex;
+}
+
+.search-bar__input {
+  padding-left: 2.4rem !important;
+  padding-right: 2.4rem !important;
+}
+
+.search-bar__clear {
+  position: absolute;
+  right: 0.75rem;
+  background: none;
+  border: none;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  font-size: 1.1rem;
+  line-height: 1;
+  padding: 0;
+  transition: color var(--transition);
+}
+
+.search-bar__clear:hover {
+  color: var(--color-text);
+}
