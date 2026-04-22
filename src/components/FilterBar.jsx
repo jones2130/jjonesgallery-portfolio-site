@@ -1,6 +1,10 @@
 import React from 'react';
-import { ALL_MEDIUMS, ALL_DATES } from '@/data/portfolioData';
+import portfolioData from '@/data/portfolioData.json';
 import './FilterBar.css';
+
+const ALL_MEDIUMS = [...new Set(portfolioData.map((p) => p.medium))].sort();
+const getYear = (d) => (typeof d === 'string' ? d.split('-')[0] : d);
+const ALL_DATES = [...new Set(portfolioData.map((p) => getYear(p.date)))].sort((a, b) => b - a);
 
 /**
  * FilterBar

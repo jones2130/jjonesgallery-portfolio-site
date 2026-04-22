@@ -26,8 +26,5 @@
 
 | # | Item | Effort |
 |---|---|:---:|
-| 1 | Insert all available art pieces into `portfolioData.js` | 2 |
-| 2 | Add phone number to Contact page | 1 |
-| 3 | Add links to LinkedIn and Upwork (About or Contact page) | 1 |
-| 4 | Make contact form functional (wire up to an email service, e.g. Resend, Formspree, or EmailJS) | 2 |
-| 5 | Find old page URLs that appear in search results and set up redirects (e.g. `/2021-gallery` → `/gallery?date=2021`) | 3 |
+| 1  | Make contact form functional (wire up to an email service, e.g. Resend, Formspree, or EmailJS) | 2 |
+| 2 | Find old page URLs that appear in search results and set up redirects (e.g. `/2021-gallery` → `/gallery?date=2021`) | 3 |

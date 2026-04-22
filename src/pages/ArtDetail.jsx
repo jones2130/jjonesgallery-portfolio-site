@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
-import portfolioData from '@/data/portfolioData';
+import portfolioData from '@/data/portfolioData.json';
 import PurchaseLinks from '@/components/PurchaseLinks';
 import './ArtDetail.css';
 
@@ -23,7 +23,7 @@ export default function ArtDetail() {
     );
   }
 
-  const { title, medium, date, tags, description, imageUrl, purchaseLinks } = piece;
+  const { title, medium, date, height, width, tags, description, imageUrl, purchaseLinks } = piece;
 
   return (
     <article className="art-detail page-section fade-up">
@@ -46,7 +46,10 @@ export default function ArtDetail() {
 
           {/* Info */}
           <div className="art-detail__info">
-            <p className="art-detail__medium">{medium} &middot; {date}</p>
+            <p className="art-detail__medium">
+              {medium} &middot; {date}
+              {height && width && ` · ${height}" x ${width}"`}
+            </p>
             <h1 className="art-detail__title">{title}</h1>
             <p className="art-detail__description">{description}</p>
 

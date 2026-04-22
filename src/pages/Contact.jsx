@@ -61,13 +61,25 @@ export default function Contact() {
 
         {/* Side links */}
         <aside className="contact-page__aside fade-up">
-          <h2 className="contact-page__aside-title">Other Ways to Connect</h2>
-          <a href="https://www.redbubble.com/" target="_blank" rel="noopener noreferrer" className="contact-page__aside-link">
-            Redbubble — Prints &amp; Merch
-          </a>
-          <a href="https://ko-fi.com/" target="_blank" rel="noopener noreferrer" className="contact-page__aside-link">
-            Ko-Fi — Buy Originals
-          </a>
+          <h2 className="contact-page__aside-title">Professional Links</h2>
+          <div className="contact-page__links-container">
+            <a href="https://www.redbubble.com/people/jamesjjonesart/shop" target="_blank" rel="noopener noreferrer" className="contact-page__aside-link">
+              <span className="link-text">Redbubble Store</span>
+              <span className="link-arrow">→</span>
+            </a>
+            <a href="https://ko-fi.com/jamesjjonesart" target="_blank" rel="noopener noreferrer" className="contact-page__aside-link">
+              <span className="link-text">Support on Ko-Fi</span>
+              <span className="link-arrow">→</span>
+            </a>
+            <a href="https://www.linkedin.com/in/james-jones-a3472826" target="_blank" rel="noopener noreferrer" className="contact-page__aside-link">
+              <span className="link-text">LinkedIn Profile</span>
+              <span className="link-arrow">→</span>
+            </a>
+            <a href="https://www.upwork.com/freelancers/~013efc563a3ed1c1a5" target="_blank" rel="noopener noreferrer" className="contact-page__aside-link">
+              <span className="link-text">Hire on Upwork</span>
+              <span className="link-arrow">→</span>
+            </a>
+          </div>
         </aside>
       </div>
     </div>

@@ -28,3 +28,8 @@ Thumbs.db
 # Logs
 *.log
 npm-debug.log*
+
+# Migration Pipeline
+src/public/images/pending/
+migration-pipeline/pending_migrations.json
+migration-pipeline/.venv

@@ -1,0 +1,3594 @@
+[
+  {
+    "id": "oil-001",
+    "slug": "azure-veil-over-the-pines",
+    "title": "Azure Veil Over the Pines",
+    "medium": "Oil",
+    "date": "2021-06-13",
+    "width": "24",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Atmospheric",
+      "Misty",
+      "Forest",
+      "Mountainscape"
+    ],
+    "description": "This atmospheric landscape captures the sublime tranquility of a mountain morning, utilizing layered blues and greens to create profound depth. The contrast between the dark, textured foreground forest and the ethereal, mist-shrouded peaks evokes a sense of quiet mystery.",
+    "imageUrl": "/images/art/oil_paintings/20210613_misty_forest_22cc839d.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-002",
+    "slug": "mountain-hamlet",
+    "title": "Mountain Hamlet",
+    "medium": "Oil",
+    "date": "2019-06-22",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Mountain",
+      "Verdant",
+      "Secluded",
+      "Village"
+    ],
+    "description": "This painting captures a secluded cluster of dwellings nestled into a steep, verdant hillside at midday. The dramatic contrast between the small red roofs and the deep, mysterious greens evokes a profound sense of peaceful isolation and natural harmony.",
+    "imageUrl": "/images/art/oil_paintings/20190622_mountain_1613812b.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-003",
+    "slug": "azure-slumber",
+    "title": "Azure Slumber",
+    "medium": "Oil",
+    "date": "2022-09-04",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "pastoral",
+      "river scene",
+      "cumulus clouds",
+      "serenity"
+    ],
+    "description": "This pastoral scene captures the tranquility of rolling emerald hills meeting a winding river under a dramatically clouded sky. The lush greens and vibrant blues evoke a feeling of expansive peace and natural serenity.",
+    "imageUrl": "/images/art/oil_paintings/20220904_valley_river_486d67f2.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-004",
+    "slug": "whispers-of-the-peaks",
+    "title": "Whispers of the Peaks",
+    "medium": "Oil",
+    "date": "2023-04-09",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Mountainscape",
+      "Vista",
+      "Light and Shadow",
+      "Nature"
+    ],
+    "description": "This dramatic landscape captures a sweeping mountain vista under a brilliant blue sky. The artist masterfully uses contrasting light and shadow to emphasize the rugged topography, drawing the eye from the lush, shadowed foreground to the majestic, sunlit peaks.",
+    "imageUrl": "/images/art/oil_paintings/20230409_mountain_valley_a05513a1.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-005",
+    "slug": "pillars-of-the-azure-deep",
+    "title": "Pillars of the Azure Deep",
+    "medium": "Oil",
+    "date": "2020-07-25",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Seascape",
+      "Coastal landscape",
+      "Rock formations",
+      "Dramatic",
+      "Blue palette"
+    ],
+    "description": "This dramatic seascape captures the immense scale of towering, ancient rock formations meeting the restless, luminous blue ocean. The masterful contrast between the shadowed, vertical cliffs and the brilliant sky emphasizes the raw, powerful majesty of the coastline.",
+    "imageUrl": "/images/art/oil_paintings/20200725_gaints_causeway_2_32d08f58.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-006",
+    "slug": "crimson-autumn-cascade",
+    "title": "Crimson Autumn Cascade",
+    "medium": "Oil",
+    "date": "2020-09-05",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Waterfall",
+      "Landscape",
+      "Autumn Colors",
+      "Cascade",
+      "Nature"
+    ],
+    "description": "This vibrant landscape painting captures a multi-tiered waterfall flowing through lush, seasonal foliage. The artist expertly contrasts the cool blues of the churning water with the fiery reds and deep greens of the surrounding autumn trees, creating a sense of dynamic natural energy.",
+    "imageUrl": "/images/art/oil_paintings/20200905_waterfall_414e770b.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-007",
+    "slug": "valley-hearth-at-dusk",
+    "title": "Valley Hearth at Dusk",
+    "medium": "Oil",
+    "date": "2019-07-27",
+    "width": "20",
+    "height": "16",
+    "tags": [
+      "Landscape",
+      "Pastoral",
+      "Village Scene",
+      "Riverside",
+      "Atmospheric"
+    ],
+    "description": "This serene, atmospheric painting depicts a pastoral scene where small, rustic houses are nestled along a winding river at the foot of imposing mountains. The composition is bathed in the warm, golden glow of late afternoon, emphasizing the quiet solitude and enduring beauty of rural life.",
+    "imageUrl": "/images/art/oil_paintings/20190727_houses_fd5a90cc.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-008",
+    "slug": "hues-of-the-passing-sky",
+    "title": "Hues of the Passing Sky",
+    "medium": "Oil",
+    "date": "2019-05-23",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Serene",
+      "Twilight",
+      "Misty",
+      "Nature"
+    ],
+    "description": "This serene landscape captures the ethereal light of twilight over a tranquil mountain valley. Soft hues of mauve, blue, and yellow diffuse across the sky, reflecting the quiet stillness of the water and the misty silhouettes of the distant peaks.",
+    "imageUrl": "/images/art/oil_paintings/20210523_vivid_valley_076c3b3e.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-009",
+    "slug": "mist-kissed-canopy",
+    "title": "Mist-Kissed Canopy",
+    "medium": "Oil",
+    "date": "2022-05-22",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "forest",
+      "misty",
+      "dawn",
+      "atmospheric"
+    ],
+    "description": "This lush landscape captures the serene transition of light over a dense, forested mountain range. The vibrant greens of the foreground give way to receding layers of misty blue peaks, all bathed in the soft, pastel glow of dawn or dusk.",
+    "imageUrl": "/images/art/oil_paintings/20220522_sunset_forest_5fac406f.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-010",
+    "slug": "whispers-of-the-current",
+    "title": "Whispers of the Current",
+    "medium": "Oil",
+    "date": "2019-04-21",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "river scene",
+      "Impressionism",
+      "nature",
+      "woods"
+    ],
+    "description": "This painting captures a secluded river winding through dense, emerald woods. The contrast between the dark, brooding canopy and the reflective, muted water creates a sense of peaceful mystery and deep immersion in nature.",
+    "imageUrl": "/images/art/oil_paintings/20190413_forrest_river_17d0a24c.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-011",
+    "slug": "ephemeral-glow",
+    "title": "Ephemeral Glow",
+    "medium": "Oil",
+    "date": "2020-08-22",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Seascape",
+      "Sunset",
+      "Impressionism",
+      "Coastal",
+      "Atmosphere"
+    ],
+    "description": "This vibrant seascape captures the dramatic transition of light at sunset, using washes of pink, orange, and deep purple to evoke the mood of the sky and the reflective wet sand. A lone vessel rests on the horizon, anchoring the scene within a moment of serene, colorful vastness.",
+    "imageUrl": "/images/art/oil_paintings/20200822_sunset_boat_a356f79d.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-012",
+    "slug": "emerald-veil-at-dawn",
+    "title": "Emerald Veil at Dawn",
+    "medium": "Oil",
+    "date": "2021-05-09",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "atmospheric",
+      "ethereal",
+      "mist",
+      "forest"
+    ],
+    "description": "This atmospheric landscape captures a dense forest shrouded in layers of ethereal mist. The artist masterfully blends deep blues and teals of the sky with soft pinks and luminous greens at the horizon, creating a sense of profound depth and tranquil mystery.",
+    "imageUrl": "/images/art/oil_paintings/20210509_vivid_autumn_6be8b0d5.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-013",
+    "slug": "golden-hour-passage",
+    "title": "Golden Hour Passage",
+    "medium": "Oil",
+    "date": "2018-09-29",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Landscape",
+      "Sunset",
+      "Serenity",
+      "Rural",
+      "Impressionism"
+    ],
+    "description": "This expansive landscape captures the ephemeral beauty of twilight, featuring a dramatic sky painted in soft gradients of lavender, pink, and blue. The composition guides the viewer's eye down the textured, earthen foreground toward a solitary vehicle nestled among the distant, rolling hills.",
+    "imageUrl": "/images/art/oil_paintings/20180929_landscape_02_107c1d30.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-014",
+    "slug": "star-kissed-terraces",
+    "title": "Star-Kissed Terraces",
+    "medium": "Oil",
+    "date": "2019-03-30",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "Landscape",
+      "night scene",
+      "terraced fields",
+      "rural",
+      "tropical"
+    ],
+    "description": "The painting captures a winding dirt path leading through lush, tiered agricultural fields under a deep indigo night sky. It evokes a profound sense of tranquility, contrasting the rich, emerald greens of the landscape with the distant sparkle of the stars.",
+    "imageUrl": "/images/art/oil_paintings/20190330_night_field_e3e71cda.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-015",
+    "slug": "verdant-passage",
+    "title": "Verdant Passage",
+    "medium": "Oil",
+    "date": "2021-03-14",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Forest",
+      "Stream",
+      "Verdant",
+      "Tranquility"
+    ],
+    "description": "A luminous stream winds through a canopy of lush, deep emerald foliage. The artist captures the tranquil atmosphere of the woods, using diffused light to draw the viewer into the misty depths of the forest passage.",
+    "imageUrl": "/images/art/oil_paintings/20210314_convergent_stream_45c6c1dc.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-016",
+    "slug": "emerald-ascent",
+    "title": "Emerald Ascent",
+    "medium": "Oil",
+    "date": "2022-08-21",
+    "width": "8",
+    "height": "12",
+    "tags": [
+      "Landscape",
+      "Forest",
+      "Mountains",
+      "Sublime",
+      "Nature"
+    ],
+    "description": "This vibrant landscape captures the dramatic contrast between a dense, lush emerald forest and towering, mist-kissed rock formations. The composition evokes a sublime sense of scale, drawing the viewer into the meeting point of ancient stone and vibrant life.",
+    "imageUrl": "/images/art/oil_paintings/20220821_dark_forest_e40a633a.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-017",
+    "slug": "the-meadows-hush",
+    "title": "The Meadow's Hush",
+    "medium": "Oil",
+    "date": "2022-01-09",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Pastoral",
+      "Heather",
+      "Woodland",
+      "Tranquil"
+    ],
+    "description": "This pastoral landscape captures a moment of serene natural beauty, featuring a foreground blanketed in vibrant purple heather. The scene is framed by the sweeping limb of an overarching tree, drawing the eye through a cluster of slender saplings toward a softly lit, distant clearing.",
+    "imageUrl": "/images/art/oil_paintings/20220109_indiana_dunes_bc331e4d.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-018",
+    "slug": "sunlit-stream",
+    "title": "Sunlit Stream",
+    "medium": "Oil",
+    "date": "2021-02-14",
+    "width": "24",
+    "height": "18",
+    "tags": [
+      "Landscape",
+      "Stream",
+      "Woodland",
+      "Impressionism",
+      "Nature"
+    ],
+    "description": "Capturing a moment of woodland serenity, the artist depicts a gently flowing stream winding through dense, verdant foliage. Dappled sunlight highlights the rocky banks and the cool, reflective surface of the water, creating a peaceful, immersive natural scene.",
+    "imageUrl": "/images/art/oil_paintings/20210214_shortfall_0813f10c.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-019",
+    "slug": "whispers-of-the-cascades",
+    "title": "Whispers of the Cascades",
+    "medium": "Oil",
+    "date": "2021-01-10",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Waterfall",
+      "Nature",
+      "Evergreen",
+      "Serene"
+    ],
+    "description": "Capturing a moment of natural drama, this scene features twin waterfalls cascading through a lush, evergreen forest. The painting uses deep blues and vibrant greens to evoke a sense of cool, misty serenity under a dramatic sky.",
+    "imageUrl": "/images/art/oil_paintings/20210110_waterfalls_02ff57b1.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-020",
+    "slug": "dark-waterfall",
+    "title": "Dark Waterfall",
+    "medium": "Oil",
+    "date": "2021-02-21",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Woodland",
+      "stream",
+      "ethereal",
+      "landscape",
+      "dappled light"
+    ],
+    "description": "The painting captures a secluded moment where a stream flows through a dense, verdant forest. Soft, diffused light filters through the canopy, creating an ethereal atmosphere and drawing the viewer into the mysterious depths of the woods.",
+    "imageUrl": "/images/art/oil_paintings/20210221_dark_forest_waterfall_02_c50d2c40.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-021",
+    "slug": "twilight-stream",
+    "title": "Twilight Stream",
+    "medium": "Oil",
+    "date": "",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Twilight",
+      "River",
+      "Woodland",
+      "Nature"
+    ],
+    "description": "This painting captures a secluded river flowing through dense woods at twilight. The deep palette of emerald greens and brooding sky colors creates a mysterious and tranquil atmosphere, drawing the viewer into the heart of the wilderness.",
+    "imageUrl": "/images/art/oil_paintings/20190806_creek_1fbb9fa4.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-022",
+    "slug": "blue-passage",
+    "title": "Blue Passage",
+    "medium": "Oil",
+    "date": "2020-10-31",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "landscape",
+      "river scene",
+      "autumn",
+      "nature",
+      "blue tones"
+    ],
+    "description": "This serene landscape captures a winding river flowing beneath a dramatic expanse of cerulean sky. The composition is framed by lush, autumnal foliage and towering evergreens, creating a tranquil study of light and natural transition.",
+    "imageUrl": "/images/art/oil_paintings/20201031_pines_edd427e3.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-023",
+    "slug": "emerald-cascade",
+    "title": "Emerald Cascade",
+    "medium": "Oil",
+    "date": "2020-09-07",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Waterfall",
+      "Landscape",
+      "Cascade",
+      "Nature",
+      "Serenity"
+    ],
+    "description": "This vibrant landscape captures a multi-tiered waterfall cascading through a lush, verdant gorge. The rich blues and greens evoke a sense of cool, natural power and serenity, inviting the viewer into a peaceful wilderness scene.",
+    "imageUrl": "/images/art/oil_paintings/20200907_waterfall_62b9ea35.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-024",
+    "slug": "emerald-shadows",
+    "title": "Emerald Shadows",
+    "medium": "Oil",
+    "date": "2019-12-07",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "forest",
+      "landscape",
+      "twilight",
+      "nature",
+      "shadows"
+    ],
+    "description": "This evocative landscape captures the profound mystery of a forest at twilight. Sunlight filters through the dense, verdant canopy, creating dramatic contrasts of light and shadow that lend a deeply serene and atmospheric mood to the scene.",
+    "imageUrl": "/images/art/oil_paintings/20191207_dark_forrest_trees_1bddb037.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-025",
+    "slug": "the-lumina-trail",
+    "title": "The Lumina Trail",
+    "medium": "Oil",
+    "date": "2021-04-18",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "forest",
+      "fantasy",
+      "woodland",
+      "ethereal",
+      "misty"
+    ],
+    "description": "This painting captures a moment of deep, verdant tranquility in a misty forest. A winding path draws the viewer's eye toward an ethereal, glowing light, evoking a profound sense of mystery and natural wonder.",
+    "imageUrl": "/images/art/oil_paintings/20210418_mushroom_path_06d57b63.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-026",
+    "slug": "whisper-of-the-peaks",
+    "title": "Whisper of the Peaks",
+    "medium": "Oil",
+    "date": "2022-10-23",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Alpine",
+      "Mist",
+      "Mountainscape",
+      "Forest"
+    ],
+    "description": "This breathtaking alpine vista captures a winding path leading through a lush, mist-shrouded forest toward majestic, snow-capped mountains. The contrast between the vibrant greens of the foreground and the ethereal blue and white peaks evokes a profound sense of tranquility and natural grandeur.",
+    "imageUrl": "/images/art/oil_paintings/20221023_mountain_pathway_b4beebc8.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-027",
+    "slug": "veil-of-the-morning",
+    "title": "Veil of the Morning",
+    "medium": "Oil",
+    "date": "2021-08-15",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Fog",
+      "Serene",
+      "Evergreen",
+      "Teal"
+    ],
+    "description": "A serene landscape capturing the moment the mist settles over a glassy body of water. The composition contrasts the sharp, dark greens of the foreground pines against the soft, luminous blues of the fog and sky, creating an ethereal sense of deep tranquility.",
+    "imageUrl": "/images/art/oil_paintings/20210815_two_pines_12c8a138.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-028",
+    "slug": "azure-ascent",
+    "title": "Azure Ascent",
+    "medium": "Oil",
+    "date": "2022-10-09",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "mountainous",
+      "twilight",
+      "ethereal",
+      "mist"
+    ],
+    "description": "This masterful landscape captures the serene transition of twilight over a mountain range. Layers of mist and vibrant blues blend with the muted greens and golds of the foreground, creating an ethereal depth and dramatic sense of scale.",
+    "imageUrl": "/images/art/oil_paintings/20221009_sunset_mountain_175052a6.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-029",
+    "slug": "valleys-azure-embrace",
+    "title": "Valley's Azure Embrace",
+    "medium": "Oil",
+    "date": "2020-01-18",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Mountainscape",
+      "River scene",
+      "Atmospheric",
+      "Dramatic"
+    ],
+    "description": "This masterful landscape captures the dramatic interplay of light and shadow at dawn, featuring a tranquil river flowing toward massive, cloud-shrouded mountain peaks. The composition balances the soft blues of the foreground water with the dramatic, ethereal palette of the sky and rock.",
+    "imageUrl": "/images/art/oil_paintings/20200118_green_lake_d43a96d3.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-030",
+    "slug": "cascade-of-azure-peaks",
+    "title": "Cascade of Azure Peaks",
+    "medium": "Oil",
+    "date": "2022-04-24",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Mountain Vista",
+      "Waterfall",
+      "Atmospheric",
+      "Nature"
+    ],
+    "description": "This majestic landscape captures a monumental mountain vista, dominated by a powerful waterfall plunging through layers of deep blue rock. The artist utilizes atmospheric perspective and rich greens to create a sense of immense depth and ethereal serenity within the wild wilderness.",
+    "imageUrl": "/images/art/oil_paintings/20220424_yosemite_range_7e1eefcf.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-031",
+    "slug": "whispers-of-the-pines",
+    "title": "Whispers of the Pines",
+    "medium": "Oil",
+    "date": "2020-12-05",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "woodland",
+      "misty",
+      "evergreen",
+      "atmospheric"
+    ],
+    "description": "A masterful depiction of a secluded woodland, this piece uses dramatic contrast to draw the viewer into a misty valley. The composition is framed by towering evergreens, leading the eye toward a luminous forest edge beneath a sweeping, cerulean sky.",
+    "imageUrl": "/images/art/oil_paintings/20201205_snow_field_cddaf8fd.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-032",
+    "slug": "whispers-on-the-woodland-path",
+    "title": "Whispers on the Woodland Path",
+    "medium": "Oil",
+    "date": "2020-06-07",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "woodland",
+      "path",
+      "nature",
+      "twilight"
+    ],
+    "description": "This serene painting captures a winding, rustic path disappearing into a dense, verdant forest. The artist uses deep, moody tones of blue and green to evoke the mysterious and tranquil ambiance of twilight.",
+    "imageUrl": "/images/art/oil_paintings/20200607_rainfall_c3c4299e.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-033",
+    "slug": "the-luminous-ascent",
+    "title": "The Luminous Ascent",
+    "medium": "Oil",
+    "date": "2019-07-20",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Mysterious",
+      "Ascent",
+      "Contrast",
+      "Golden light",
+      "Ethereal"
+    ],
+    "description": "This dramatic oil painting captures a set of stairs ascending into a radiant golden light. The deep surrounding shadows create a powerful sense of mystery and anticipation, symbolizing a journey toward hope or revelation.",
+    "imageUrl": "/images/art/oil_paintings/20190720_stairs_e5db20c0.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-034",
+    "slug": "twilight-veil-over-the-peaks",
+    "title": "Twilight Veil over the Peaks",
+    "medium": "Oil",
+    "date": "2020-04-26",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Twilight",
+      "Mountainscape",
+      "Atmospheric",
+      "Forest"
+    ],
+    "description": "The painting captures a dramatic twilight view of a mountain range seen through a curtain of trees. The artist uses deep purples and blues to create a moody, atmospheric scene where the still water reflects the brooding sky and imposing peaks.",
+    "imageUrl": "/images/art/oil_paintings/20200426_purple_mountains_79ecd2b7.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-035",
+    "slug": "whispers-of-the-cascading-veil",
+    "title": "Whispers of the Cascading Veil",
+    "medium": "Oil",
+    "date": "2020-05-31",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Waterfall",
+      "forest scene",
+      "lush foliage",
+      "tranquility",
+      "naturalism"
+    ],
+    "description": "This painting captures a secluded waterfall nestled deep within a vibrant, lush forest. The artist uses dramatic lighting to illuminate the cascading water and surrounding foliage, creating a sense of serene mystery and untouched natural beauty.",
+    "imageUrl": "/images/art/oil_paintings/20200531_waterfall02_32f341f9.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-036",
+    "slug": "violet-whisper",
+    "title": "Violet Whisper",
+    "medium": "Oil",
+    "date": "2018-03-09",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Still life",
+      "tulips",
+      "floral painting",
+      "purple",
+      "impressionistic"
+    ],
+    "description": "This delicate still life captures a bouquet of deep purple tulips emerging from a translucent glass vase. The artist utilizes soft, muted tones and visible brushwork to create an ethereal glow, presenting a moment of quiet, floral beauty.",
+    "imageUrl": "/images/art/oil_paintings/20180903_still_life_01_2d099965.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-037",
+    "slug": "whispering-cascade",
+    "title": "Whispering Cascade",
+    "medium": "Oil",
+    "date": "2020-05-03",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Waterfall",
+      "Forest Scene",
+      "Verdant",
+      "Seclusion"
+    ],
+    "description": "This painting captures a hidden, secluded waterfall nestled deep within a dense, verdant forest. The artist uses dramatic contrast, highlighting the cool mist of the falling water against the deep, saturated greens of the surrounding foliage, creating a sense of peaceful mystery.",
+    "imageUrl": "/images/art/oil_paintings/20200503_waterfall_ccf193e5.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-038",
+    "slug": "mountain-echoes-on-the-lake",
+    "title": "Mountain Echoes on the Lake",
+    "medium": "Oil",
+    "date": "2018-12-16",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Landscape",
+      "Mountainscape",
+      "Lake",
+      "Serenity",
+      "Foliage"
+    ],
+    "description": "A tranquil landscape view featuring a glassy lake reflecting soft light. Majestic, snow-capped mountains rise in the distance, framed by lush, autumnal foliage and a muted sky.",
+    "imageUrl": "/images/art/oil_paintings/20181216_winter_forrest_1cbbba0b.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-039",
+    "slug": "crimson-heart",
+    "title": "Crimson Heart",
+    "medium": "Oil",
+    "date": "2025-11-02",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Still life",
+      "peppers",
+      "culinary",
+      "food art",
+      "composition"
+    ],
+    "description": "This still life captures a dramatically opened pepper resting on a dark wooden board. The artist uses rich, deep reds and contrasting greens to highlight the pepper's internal structure, transforming a common culinary subject into a study of form and texture.",
+    "imageUrl": "/images/art/oil_paintings/20251102_cut_bell_pepper_c5f9aa2a.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-040",
+    "slug": "auroras-embrace",
+    "title": "Aurora's Embrace",
+    "medium": "Oil",
+    "date": "2022-03-06",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Aurora Borealis",
+      "Landscape",
+      "Northern Lights",
+      "Mountain Scene",
+      "Mystical"
+    ],
+    "description": "This painting captures a moment of profound natural beauty where vibrant curtains of the aurora borealis drape over a silent, snow-dusted mountain range. The luminous green and purple hues contrast dramatically with the deep blues of the foreground water, creating a mystical and serene scene.",
+    "imageUrl": "/images/art/oil_paintings/20220306_northern_light_show_2_eca47eb7.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-041",
+    "slug": "whispers-of-the-bluff",
+    "title": "Whispers of the Bluff",
+    "medium": "Oil",
+    "date": "2022-05-01",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Nature",
+      "Misty",
+      "Scenic",
+      "Hiking"
+    ],
+    "description": "This painting captures a serene moment in a rugged wilderness, featuring a winding path that ascends through lush, verdant foregrounds. The composition draws the viewer's eye toward a massive, sun-drenched bluff, enveloped in ethereal mist.",
+    "imageUrl": "/images/art/oil_paintings/20220501_walking_trail_4d2f2127.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-042",
+    "slug": "springs-emerald-veil",
+    "title": "Spring's Emerald Veil",
+    "medium": "Oil",
+    "date": "2020-05-17",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Waterfall",
+      "Landscape",
+      "Impressionism",
+      "Nature",
+      "Forest"
+    ],
+    "description": "This painting captures a moment of natural tranquility where a waterfall descends into a sunlit pool. The vibrant use of color and light emphasizes the interplay between the deep forest canopy and the bright, refreshing water, creating a serene, immersive atmosphere.",
+    "imageUrl": "/images/art/oil_paintings/20200517_autum_waterfall_d0799fec.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-043",
+    "slug": "golden-hour-flow",
+    "title": "Golden Hour Flow",
+    "medium": "Oil",
+    "date": "2020-02-08",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "river scene",
+      "sunset light",
+      "woodland",
+      "riparian"
+    ],
+    "description": "This serene landscape captures a winding river bathed in the warm glow of sunset. The soft, amber light illuminates the woodland scene, contrasting the deep greens of the forest with the diffused, golden tones of the sky.",
+    "imageUrl": "/images/art/oil_paintings/20200208_yellow_lake_053a14b6.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-044",
+    "slug": "twilight-descent",
+    "title": "Twilight Descent",
+    "medium": "Oil",
+    "date": "2019-04-26",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Mountain landscape",
+      "twilight",
+      "atmospheric",
+      "deep forest",
+      "mist"
+    ],
+    "description": "The scene captures a dramatic mountain landscape at twilight. Deep blues and shadowy greens envelop the layered peaks and dense forest, while a mysterious, luminous mist settles softly across the valley floor.",
+    "imageUrl": "/images/art/oil_paintings/20190426_aurora_mountains_03_419ddf54.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-045",
+    "slug": "moonlight-cascade",
+    "title": "Moonlight Cascade",
+    "medium": "Oil",
+    "date": "2020-11-21",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Fantasy",
+      "Nocturne",
+      "Waterfall",
+      "Moonlight",
+      "Landscape"
+    ],
+    "description": "This nocturnal landscape captures the ethereal beauty of a cascading waterfall under a brilliant full moon. The artist uses deep blues and vibrant teals to evoke a sense of mystery and tranquil wilderness.",
+    "imageUrl": "/images/art/oil_paintings/20201121_moonlight_waterfall_bf920e5a.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-046",
+    "slug": "golden-passage",
+    "title": "Golden Passage",
+    "medium": "Oil",
+    "date": "2020-08-16",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Nature",
+      "River scene",
+      "Impressionism",
+      "Sunrise"
+    ],
+    "description": "This serene landscape captures a river winding through verdant foliage, framed by the soft glow of sunrise or sunset. The distant mountain peak rises dramatically against the warm sky, lending a sense of peaceful depth and natural grandeur to the scene.",
+    "imageUrl": "/images/art/oil_paintings/20200816_jungle_5f37e35e.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-047",
+    "slug": "the-cliffside-vigil",
+    "title": "The Cliffside Vigil",
+    "medium": "Oil",
+    "date": "2024-10-06",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "Coastal landscape",
+      "lighthouse",
+      "dramatic sky",
+      "cliffside",
+      "maritime"
+    ],
+    "description": "This dramatic landscape captures a solitary lighthouse perched atop a massive, reddish-brown cliff face. Under a brooding, stormy sky, the steady beam of light cuts through the turbulence, evoking a powerful sense of enduring guidance and coastal isolation.",
+    "imageUrl": "/images/art/oil_paintings/20241006_costal_lighthouse_7914490b.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-048",
+    "slug": "verdant-fields",
+    "title": "Verdant Fields",
+    "medium": "Oil",
+    "date": "2022-07-31",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Forest",
+      "Woodland",
+      "Mist",
+      "Verdant",
+      "Nature"
+    ],
+    "description": "A lush, atmospheric depiction of a forest shrouded in mist. Filtered light penetrates the dense canopy, illuminating overgrown grasses and ancient trunks, evoking a sense of timeless mystery and deep natural serenity.",
+    "imageUrl": "/images/art/oil_paintings/20220731_dark_forest_18b64a7d.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-049",
+    "slug": "emerald-aquatic-flows",
+    "title": "Emerald Aquatic Flows",
+    "medium": "Oil",
+    "date": "2022-11-27",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Waterfall",
+      "forest landscape",
+      "lush greenery",
+      "natural scene",
+      "cascade"
+    ],
+    "description": "This painting captures a secluded waterfall plunging through dense, vibrant foliage. The artist uses soft blues and greens to evoke the cool mist and lush, untouched beauty of a hidden forest glen.",
+    "imageUrl": "/images/art/oil_paintings/20221127_multiple_waterfalls_02_80a34210.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-050",
+    "slug": "crimson-divide",
+    "title": "Crimson Divide",
+    "medium": "Oil",
+    "date": "2019-11-23",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Sunset",
+      "Coastal",
+      "Cliffs",
+      "Dramatic"
+    ],
+    "description": "This painting captures the dramatic intensity of a coastal sunset. Massive, earthy cliffs meet a sandy shore beneath a vibrant, dual-toned sky that transitions from deep crimson to brilliant gold.",
+    "imageUrl": "/images/art/oil_paintings/20191123_happy_accident_f0384134.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-051",
+    "slug": "azure-passage",
+    "title": "Azure Passage",
+    "medium": "Oil",
+    "date": "2022-11-13",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "river scene",
+      "mountains",
+      "dramatic",
+      "ethereal"
+    ],
+    "description": "The painting depicts a winding river cutting through a lush, verdant valley. Dramatic mountains and a brooding sky frame the scene, emphasizing the ethereal, deep blue tones of the water as it flows toward the viewer.",
+    "imageUrl": "/images/art/oil_paintings/20221113_glacial_river_12185613.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-052",
+    "slug": "sunlit-passage",
+    "title": "Sunlit Passage",
+    "medium": "Oil",
+    "date": "2021-03-21",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Forest scene",
+      "woodland",
+      "dappled light",
+      "nature path",
+      "lush greens"
+    ],
+    "description": "This painting depicts a secluded, winding path leading through a lush, vibrant forest. The artist masterfully uses contrast between bright, filtered sunlight and deep shadows to evoke a sense of mystery and tranquil depth.",
+    "imageUrl": "/images/art/oil_paintings/20210321_lightened_path_239795a0.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-053",
+    "slug": "mistfall-morning",
+    "title": "Mistfall Morning",
+    "medium": "Oil",
+    "date": "2022-03-20",
+    "width": "20",
+    "height": "16",
+    "tags": [
+      "Landscape",
+      "Forest Scene",
+      "Mist",
+      "Evergreen",
+      "Moody"
+    ],
+    "description": "The artist captures a moment of dramatic tranquility in a dense evergreen forest. Heavy mist filters through the canopy, softening the light and creating a mysterious, ethereal atmosphere over the glassy pond.",
+    "imageUrl": "/images/art/oil_paintings/20220320_rainy_forest_13603505.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-054",
+    "slug": "veil-of-mist",
+    "title": "Veil of Mist",
+    "medium": "Oil",
+    "date": "2021-05-31",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Atmospheric",
+      "Watercolor",
+      "Mist",
+      "Tranquility"
+    ],
+    "description": "This serene watercolor depicts a layered landscape where a tranquil body of water reflects the muted sky. Distant, hazy mountains fade into a soft mist, creating a deeply atmospheric sense of quietude.",
+    "imageUrl": "/images/art/oil_paintings/20210531_river_mountains_01b2d635.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-055",
+    "slug": "god-ray-crossing",
+    "title": "God Ray Crossing",
+    "medium": "Oil",
+    "date": "2021-01-03",
+    "width": "10",
+    "height": "8",
+    "tags": [
+      "Landscape",
+      "Forest",
+      "Sunlight",
+      "Mist",
+      "Tranquility"
+    ],
+    "description": "This serene landscape captures a moment of ethereal light piercing a dense, misty forest canopy. A prominent fallen log anchors the foreground, bathed in the soft glow of dramatic shafts of sunlight that evoke a sense of tranquil mystery.",
+    "imageUrl": "/images/art/oil_paintings/20210103_enchanted_forest_a4c9a43b.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-056",
+    "slug": "the-serpents-passage",
+    "title": "The Serpent's Passage",
+    "medium": "Oil",
+    "date": "2019-06-09",
+    "width": "10",
+    "height": "8",
+    "tags": [
+      "Landscape",
+      "River",
+      "Canyon",
+      "Gorge",
+      "Naturalism"
+    ],
+    "description": "This dramatic landscape captures a wide river carving its path through towering, verdant bluffs. The composition emphasizes the immense scale of the gorge, drawing the eye into the distant, hazy opening under a brilliant blue sky.",
+    "imageUrl": "/images/art/oil_paintings/20190609_fjord_02_4902a1b3.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-057",
+    "slug": "lunar-peaks",
+    "title": "Lunar Peaks",
+    "medium": "Oil",
+    "date": "2020-12-12",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "nocturnal",
+      "mountains",
+      "celestial",
+      "moonlight"
+    ],
+    "description": "The painting depicts a dramatic, nocturnal mountain range illuminated by a luminous full moon. The deep indigo sky is dusted with countless stars, contrasting sharply with the dark, forested valley below, creating a sense of profound, serene wilderness.",
+    "imageUrl": "/images/art/oil_paintings/20201212_night_mountain_d7a10759.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-058",
+    "slug": "mist-shrouded-valley",
+    "title": "Mist-Shrouded Valley",
+    "medium": "Oil",
+    "date": "2021-06-06",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Atmospheric",
+      "Mountainscape",
+      "Fog",
+      "Serenity"
+    ],
+    "description": "This atmospheric landscape captures the profound tranquility of a mountain range reflected in still water under a heavy, dramatic sky. The artist utilizes a cool, muted palette of blues and grays to evoke a sense of mystery and deep natural serenity.",
+    "imageUrl": "/images/art/oil_paintings/20210606_overcast_mountain_3e51c5be.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-059",
+    "slug": "whispers-of-the-forgotten-gate",
+    "title": "Whispers of the Forgotten Gate",
+    "medium": "Oil",
+    "date": "2020-09-13",
+    "width": "24",
+    "height": "18",
+    "tags": [
+      "Fantasy",
+      "warrior",
+      "ruins",
+      "adventure",
+      "atmospheric"
+    ],
+    "description": "The painting depicts a heavily armored warrior standing amidst ancient, overgrown ruins. The misty atmosphere and surrounding dense foliage evoke a sense of epic discovery, suggesting a journey into a forgotten past.",
+    "imageUrl": "/images/art/oil_paintings/20200913_dark_souls_2bcf9856.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-060",
+    "slug": "golden-descent",
+    "title": "Golden Descent",
+    "medium": "Oil",
+    "date": "2023-12-03",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Sunset",
+      "Atmospheric",
+      "Serene",
+      "Impressionism"
+    ],
+    "description": "This painting captures the ethereal glow of dawn or dusk over a series of rolling hills. Using warm gradients and atmospheric perspective, the artist evokes a sense of deep tranquility, allowing the vibrant sky to merge seamlessly with the misty valley below.",
+    "imageUrl": "/images/art/oil_paintings/20231203_rainbow_valley_4a562899.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-061",
+    "slug": "twilight-palms",
+    "title": "Twilight Palms",
+    "medium": "Oil",
+    "date": "2019-07-13",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Tropical",
+      "Sunset",
+      "Silhouette",
+      "Landscape",
+      "Coastal"
+    ],
+    "description": "The painting captures the dramatic beauty of a tropical sunset. Two slender palm trees stand in stark silhouette against a vibrant gradient of reds and oranges, contrasting sharply with the deep, brooding blues of the ocean.",
+    "imageUrl": "/images/art/oil_paintings/20190713_beach_02_9e4b7cc2.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-062",
+    "slug": "storms-edge",
+    "title": "Storm's Edge",
+    "medium": "Oil",
+    "date": "2023-01-16",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Romanticism",
+      "Sublime",
+      "Moody",
+      "Forest"
+    ],
+    "description": "The painting captures a moment of dramatic contrast, where lush, vibrant green foliage in the foreground meets the imposing majesty of mountains under a stormy sky. The scene evokes a feeling of sublime power and natural drama, suggesting a hidden valley at the cusp of a tempest.",
+    "imageUrl": "/images/art/oil_paintings/20230116_midnight_beach_3a67192f.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-063",
+    "slug": "autumn-passage",
+    "title": "Autumn Passage",
+    "medium": "Oil",
+    "date": "2020-12-19",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Autumnal",
+      "Landscape",
+      "River scene",
+      "Mountain",
+      "Moody"
+    ],
+    "description": "This evocative landscape captures a winding river flowing through a valley of vibrant autumnal foliage. The composition is anchored by a brooding mountain peak beneath a dramatic, cloudy sky, creating a mood of serene, seasonal transition.",
+    "imageUrl": "/images/art/oil_paintings/20201219_autumn_river_86415b45.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-064",
+    "slug": "twilights-embrace",
+    "title": "Twilight's Embrace",
+    "medium": "Oil",
+    "date": "2018-09-23",
+    "width": "10",
+    "height": "8",
+    "tags": [
+      "Desert landscape",
+      "Sunset",
+      "Saguaro",
+      "Silhouette",
+      "Twilight"
+    ],
+    "description": "This dramatic desert scene captures the moment of sunset, where the vibrant sky transitions through gradients of purple, indigo, and soft orange. Silhouetted saguaro cacti stand sentinel against the vast, moody expanse of the twilight horizon.",
+    "imageUrl": "/images/art/oil_paintings/20180923_landscape_01_eb014e1c.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-065",
+    "slug": "golden-sway",
+    "title": "Golden Sway",
+    "medium": "Oil",
+    "date": "2018-11-24",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Tropical",
+      "Seascape",
+      "Palm Trees",
+      "Sunset",
+      "Coastal"
+    ],
+    "description": "This vibrant seascape captures the dramatic moment of a tropical sunset, utilizing bold strokes of yellow, orange, and cerulean blue. Leaning palm silhouettes frame the tranquil horizon, evoking a sense of warm, breezy serenity.",
+    "imageUrl": "/images/art/oil_paintings/20181124_seascape_03_37808790.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-066",
+    "slug": "mist-kissed-ascent",
+    "title": "Mist-Kissed Ascent",
+    "medium": "Oil",
+    "date": "2022-05-15",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Misty",
+      "Atmospheric",
+      "Impressionism",
+      "Verdant"
+    ],
+    "description": "This atmospheric landscape captures the serene transition of dawn over rolling hills. Layers of soft mist obscure the distant mountains, creating a profound sense of depth emphasized by the vibrant, lush greens of the foreground.",
+    "imageUrl": "/images/art/oil_paintings/20220515_sunrise_mountain_range_a5d78a92.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-067",
+    "slug": "mist-kissed-dawn",
+    "title": "Mist-Kissed Dawn",
+    "medium": "Oil",
+    "date": "2022-09-11",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Misty",
+      "Tranquil",
+      "Impressionism",
+      "Dawn"
+    ],
+    "description": "This painting captures a serene, misty landscape at dawn, utilizing soft pastel hues to blend the rolling blue mountains with the tranquil foreground. The still water perfectly reflects the gentle light and lush greens of the meadow, evoking a deep sense of peace.",
+    "imageUrl": "/images/art/oil_paintings/20220911_reflective_lake_aa583058.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-068",
+    "slug": "blue-hour-passage",
+    "title": "Blue Hour Passage",
+    "medium": "Oil",
+    "date": "2020-04-19",
+    "width": "5",
+    "height": "10",
+    "tags": [
+      "Landscape",
+      "Twilight",
+      "Moody",
+      "River Scene",
+      "Atmospheric"
+    ],
+    "description": "This painting captures a moody, twilight landscape where a winding river reflects the dramatic, deep blue sky and heavy clouds. Silhouetted trees frame the serene yet atmospheric passage, lending the scene a sense of quiet mystery.",
+    "imageUrl": "/images/art/oil_paintings/20200419_stream_e186be25.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-069",
+    "slug": "stellar-zenith",
+    "title": "Stellar Zenith",
+    "medium": "Oil",
+    "date": "2022-03-13",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Mountainscape",
+      "Night Sky",
+      "Celestial",
+      "Snowy",
+      "Landscape"
+    ],
+    "description": "This dramatic mountainscape captures a majestic peak rising beneath a brilliant, star-strewn night sky. The composition utilizes deep indigo and ethereal blues to contrast the rugged, icy foreground with the vast, cosmic expanse above.",
+    "imageUrl": "/images/art/oil_paintings/20220313_star_mountain_9103f90a.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-070",
+    "slug": "valley-of-whispers",
+    "title": "Valley of Whispers",
+    "medium": "Oil",
+    "date": "2019-06-01",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Mountainscape",
+      "Verdant",
+      "Tranquil",
+      "Luminosity"
+    ],
+    "description": "This painting captures a deeply tranquil mountain landscape viewed through a lush, verdant passage. The contrast between the shadowed water and dense foliage foregrounds the majestic, mist-shrouded peaks in the distance, evoking a sense of dramatic serenity.",
+    "imageUrl": "/images/art/oil_paintings/20190601_forrest_river_53d91391.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-071",
+    "slug": "autumns-veil",
+    "title": "Autumn's Veil",
+    "medium": "Oil",
+    "date": "2020-11-29",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Autumnal",
+      "Landscape",
+      "Moody",
+      "Reflection",
+      "Foliage"
+    ],
+    "description": "This painting captures a moody autumn day over a calm body of water. The dramatic, cloud-filled sky contrasts with the warm, vibrant tones of the autumnal foliage in the foreground, creating a deeply reflective and atmospheric scene.",
+    "imageUrl": "/images/art/oil_paintings/20201129_autumn_lake_d4a10a1a.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-072",
+    "slug": "twilight-veil-on-the-water",
+    "title": "Twilight Veil on the Water",
+    "medium": "Oil",
+    "date": "2018-12-03",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Landscape",
+      "Impressionism",
+      "Twilight",
+      "Reflection",
+      "Wooded"
+    ],
+    "description": "This atmospheric landscape captures the soft transition of twilight over a wooded inlet. The artist uses luminous purples and deep, reflective greens to blend the dramatic sky with the still water, evoking a sense of quiet contemplation.",
+    "imageUrl": "/images/art/oil_paintings/20181203_red_forrest_0dd2e5c4.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-073",
+    "slug": "starlight-shoreline",
+    "title": "Starlight Shoreline",
+    "medium": "Oil",
+    "date": "2021-08-01",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Nightscape",
+      "Coastal",
+      "Landscape",
+      "Mystical",
+      "Twilight"
+    ],
+    "description": "This serene landscape captures a mystical moment at the intersection of land and sea under a twilight sky. A winding path guides the viewer past glowing, lush foliage toward the mysterious, reflective waters.",
+    "imageUrl": "/images/art/oil_paintings/20210801_coastal_hills_path_d6a2c846.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-074",
+    "slug": "stellar-shore",
+    "title": "Stellar Shore",
+    "medium": "Oil",
+    "date": "2023-03-26",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Coastal landscape",
+      "seascape",
+      "twilight",
+      "starry night",
+      "foliage"
+    ],
+    "description": "This dramatic seascape captures a moment of mystical tranquility at twilight, contrasting the vibrant emerald foliage and rugged cliffs against a deep, starlit indigo sky. The composition draws the viewer into the wild, luminous beauty of the coast where land meets the cosmic sea.",
+    "imageUrl": "/images/art/oil_paintings/20230326_nighttime_cove_c8df9bc2.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-075",
+    "slug": "spotlights-breath",
+    "title": "Spotlight's Breath",
+    "medium": "Oil",
+    "date": "2018-09-08",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Portraiture",
+      "Pop Culture",
+      "Performance Art",
+      "Expressionism",
+      "Blue Tones"
+    ],
+    "description": "This expressive portrait captures a moment of theatrical intensity, featuring a subject mid-performance. Through loose brushwork and a cool, muted palette, the artist emphasizes the subject's dramatic expression and stage presence.",
+    "imageUrl": "/images/art/oil_paintings/20180908_portrait_01_4f07f67d.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-076",
+    "slug": "twilight-canopy",
+    "title": "Twilight Canopy",
+    "medium": "Oil",
+    "date": "2020-11-01",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Landscape",
+      "Watercolor",
+      "Woodland",
+      "Sunrise",
+      "Impressionism"
+    ],
+    "description": "This watercolor captures the serene moment of sunrise over a dense woodland. The artist uses washes of deep blue and soft pink to contrast the vibrant, layered greens of the forest below, creating an ethereal and tranquil atmosphere.",
+    "imageUrl": "/images/art/oil_paintings/20201101_sunset_forest_be05ef0d.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-077",
+    "slug": "veil-of-autumn-light",
+    "title": "Veil of Autumn Light",
+    "medium": "Oil",
+    "date": "2020-10-04",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Waterfall",
+      "Autumn",
+      "Impressionism",
+      "Nature"
+    ],
+    "description": "This lush landscape captures the serene moment of a waterfall cascading through dense, autumnal foliage. The composition utilizes warm, muted tones to evoke the ethereal quality of light filtering through the woods, contrasting beautifully with the cool spray of the falling water.",
+    "imageUrl": "/images/art/oil_paintings/20201004_waterfall_9f12f4e4.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-078",
+    "slug": "violet-hour-echoes",
+    "title": "Violet Hour Echoes",
+    "medium": "Oil",
+    "date": "2020-01-25",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Twilight",
+      "Landscape",
+      "Purple",
+      "Atmospheric",
+      "Silhouette"
+    ],
+    "description": "This twilight landscape captures a serene, melancholic scene dominated by deep purples and mauves. Bare, skeletal trees stand sentinel against a dramatic, glowing sky, framing the layered, receding silhouettes of distant mountains.",
+    "imageUrl": "/images/art/oil_paintings/20200125_winter_trees_b16dff0b.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-079",
+    "slug": "rivers-twilight-veil",
+    "title": "River's Twilight Veil",
+    "medium": "Oil",
+    "date": "2020-10-11",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Landscape",
+      "Twilight",
+      "Impressionism",
+      "River scene",
+      "Atmospheric"
+    ],
+    "description": "This painting captures the serene, transitional moment of twilight over a misty waterway. The artist utilizes soft washes of blue, pink, and gray to blend the dramatic, colorful sky with the calm, reflective water, creating a deeply atmospheric and tranquil landscape.",
+    "imageUrl": "/images/art/oil_paintings/20201011_forest_lake_33286022.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-080",
+    "slug": "twilight-passage",
+    "title": "Twilight Passage",
+    "medium": "Oil",
+    "date": "2019-10-12",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Twilight",
+      "Sunset",
+      "Moody",
+      "Forest"
+    ],
+    "description": "This dramatic landscape captures a creek flowing through a dense forest at twilight. The scene is dominated by the contrast between deep, stormy clouds and a fiery, luminous sunset glow, creating a deeply moody and ethereal atmosphere.",
+    "imageUrl": "/images/art/oil_paintings/20191012_sunrise_forrest_dae748c2.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-081",
+    "slug": "the-weight-of-azure",
+    "title": "The Weight of Azure",
+    "medium": "Oil",
+    "date": "2020-08-30",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Atmospheric",
+      "Storm",
+      "Autumnal",
+      "Tonalism"
+    ],
+    "description": "This dramatic landscape captures the volatile moment before a storm, featuring heavy, deep blue clouds that dominate the upper canvas. The intense sky contrasts with the warm, glowing silhouette of the autumnal treeline, grounding the scene in a moment of dramatic transition.",
+    "imageUrl": "/images/art/oil_paintings/20200830_cloudy_sky_3d398f25.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-082",
+    "slug": "twilight-embrace",
+    "title": "Twilight Embrace",
+    "medium": "Oil",
+    "date": "2020-12-06",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "forest scene",
+      "sunset",
+      "ethereal",
+      "woodland"
+    ],
+    "description": "The artwork captures a serene forest clearing viewed through a dense curtain of foliage. A dramatic, warm sunset breaks through the canopy, casting an ethereal glow that suggests transition and quiet mystery.",
+    "imageUrl": "/images/art/oil_paintings/20201206_dark_meadow_4852ac72.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-083",
+    "slug": "saphire-falls",
+    "title": "Saphire Falls",
+    "medium": "Oil",
+    "date": "2021-04-04",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape painting",
+      "waterfall",
+      "forest scene",
+      "nature",
+      "serenity"
+    ],
+    "description": "This painting captures a moment of serene wilderness where a powerful waterfall cascades into a deep, cool pool. The scene is framed by lush, vibrant emerald foliage, creating a sense of secluded mystery and natural grandeur.",
+    "imageUrl": "/images/art/oil_paintings/20210404_waterfall_lake_3402acbe.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-084",
+    "slug": "lavender-dreams",
+    "title": "Lavender Dreams",
+    "medium": "Oil",
+    "date": "2018-10-02",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Lavender",
+      "pastoral",
+      "whimsical",
+      "dreamscape",
+      "sunset"
+    ],
+    "description": "This serene painting captures a dreamlike view of a lavender field stretching toward the horizon. The saturated palette, featuring soft purples and blues, is complemented by whimsical, balloon-like figures floating against a dramatic, colorful sky.",
+    "imageUrl": "/images/art/oil_paintings/20181002_landscape_03_9bf3fb50.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-085",
+    "slug": "mist-over-the-stillwater",
+    "title": "Mist Over the Stillwater",
+    "medium": "Oil",
+    "date": "2022-05-08",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Mountainscape",
+      "Serenity",
+      "Mist",
+      "Water"
+    ],
+    "description": "This tranquil landscape captures a moment of profound natural serenity, depicting a glassy lake nestled among towering, mist-shrouded mountains. The soft blend of blues and greens emphasizes the ethereal atmosphere, inviting the viewer into a secluded, peaceful wilderness.",
+    "imageUrl": "/images/art/oil_paintings/20220508_mountain_lake_75549169.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-086",
+    "slug": "gloaming-veil",
+    "title": "Gloaming Veil",
+    "medium": "Oil",
+    "date": "2020-01-04",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Atmospheric",
+      "Ethereal",
+      "Landscape",
+      "Twilight",
+      "Mist"
+    ],
+    "description": "An ethereal landscape bathed in the soft, muted light of twilight, this scene captures a grove shrouded in mist. The dramatic interplay of deep blues and luminous mauves lends the composition a mysterious, dreamlike quality.",
+    "imageUrl": "/images/art/oil_paintings/20200104_winter_trees_02_aec50e4e.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-087",
+    "slug": "veil-of-the-gathering-storm",
+    "title": "Veil of the Gathering Storm",
+    "medium": "Oil",
+    "date": "2020-10-11",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Cloudscape",
+      "Storm",
+      "Tonalism",
+      "Atmospheric",
+      "Moody"
+    ],
+    "description": "This dramatic cloudscape captures the immense power and brooding atmosphere of a brewing tempest. Heavy, swirling masses of deep grays and earthy browns dominate the composition, suggesting overwhelming, atmospheric motion and the sublime force of nature.",
+    "imageUrl": "/images/art/oil_paintings/20201011_crashing_waves_7b96de81.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-088",
+    "slug": "dark-cold-desert",
+    "title": "Dark Cold Desert",
+    "medium": "Oil",
+    "date": "2019-04-20",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Desert",
+      "Sunset",
+      "Silhouette",
+      "Atmospheric"
+    ],
+    "description": "This painting captures the dramatic moment of sunset in a rugged desert landscape. The artist uses deep, saturated tones to contrast the silhouetted foreground elements with the glowing, gradient sky and distant mountain peaks.",
+    "imageUrl": "/images/art/oil_paintings/20190420_dark_desert_22c2cdc8.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-089",
+    "slug": "emerald-haze",
+    "title": "Emerald Haze",
+    "medium": "Oil",
+    "date": "2022-12-04",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Atmospheric",
+      "Mist",
+      "Rolling Hills",
+      "Nature"
+    ],
+    "description": "This atmospheric landscape captures rolling green hills shrouded in a mystical layer of mist. The dramatic fog obscures the distant peaks, lending the scene an ethereal and moody quality under a brooding sky.",
+    "imageUrl": "/images/art/oil_paintings/20221204_,misty_mountains_02_771434e3.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-090",
+    "slug": "scarlet-horizon",
+    "title": "Scarlet Horizon",
+    "medium": "Oil",
+    "date": "2018-09-01",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Seascape",
+      "Sunset",
+      "Coastal",
+      "Twilight",
+      "Crimson"
+    ],
+    "description": "The canvas captures the dramatic transition of twilight, featuring a vibrant palette of scarlet and deep crimson across the expansive sky. A dark, silhouetted coastline anchors the composition, contrasting with the serene, cool blues and lavenders of the glassy water.",
+    "imageUrl": "/images/art/oil_paintings/20180901_seascape_02_d95a6ced.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-091",
+    "slug": "emerald-pillars-of-time",
+    "title": "Emerald Pillars of Time",
+    "medium": "Oil",
+    "date": "2022-07-03",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Vista",
+      "Cliffs",
+      "Nature",
+      "Epic"
+    ],
+    "description": "This breathtaking landscape captures a grand vista of monumental rock formations rising above a lush, vibrant green valley. The contrast between the rugged, ancient stone and the saturated life below evokes a sense of epic scale and enduring natural majesty under a dramatic sky.",
+    "imageUrl": "/images/art/oil_paintings/20220703_rocky_valley_2f9e46fc.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-092",
+    "slug": "mountain-glow",
+    "title": "Mountain Glow",
+    "medium": "Oil",
+    "date": "2020-09-27",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Autumn",
+      "Mountain",
+      "Impressionism",
+      "Nature",
+      "Seasonal"
+    ],
+    "description": "A vibrant landscape study capturing the dramatic contrast between a towering, snow-capped mountain and the warm tones of autumn. The composition utilizes golden light to illuminate a lush foreground, emphasizing the seasonal transition from winter to fall.",
+    "imageUrl": "/images/art/oil_paintings/20200927_mountain_97027689.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-093",
+    "slug": "lighthouse-at-the-edge-of-time",
+    "title": "Lighthouse at the Edge of Time",
+    "medium": "Oil",
+    "date": "2018-08-25",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Coastal landscape",
+      "lighthouse",
+      "seascape",
+      "cliff painting",
+      "maritime art"
+    ],
+    "description": "This painting captures a dramatic coastal view where a rugged, reddish-brown cliff meets the vast expanse of the ocean. Perched atop the precipice, a solitary lighthouse stands as a beacon of steadfast hope against the dynamic backdrop of the churning blue sea and soft, cloudy sky.",
+    "imageUrl": "/images/art/oil_paintings/20180825_seascape_01_3e99f809.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-094",
+    "slug": "emerald-sanctuary",
+    "title": "Emerald Sanctuary",
+    "medium": "Oil",
+    "date": "2020-06-21",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Serenity",
+      "Foliage",
+      "Watercolor",
+      "Nature"
+    ],
+    "description": "This painting captures a serene view of a lush, forested island nestled in a calm body of water. The artist uses rich, layered greens to create depth in the rolling hills, contrasting the bright foreground foliage against the deep, atmospheric blues of the sky and water.",
+    "imageUrl": "/images/art/oil_paintings/20200621_grassy-hills_05b490bd.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-095",
+    "slug": "emerald-swamp",
+    "title": "Emerald Swamp",
+    "medium": "Oil",
+    "date": "2020-11-08",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Landscape",
+      "Impressionism",
+      "Tranquility",
+      "Stream",
+      "Misty"
+    ],
+    "description": "The painting depicts a secluded creek flowing through lush, misty woods. The soft focus and muted greens create a sense of deep tranquility, drawing the eye into the ethereal, obscured background.",
+    "imageUrl": "/images/art/oil_paintings/20201108_green_swamp_c689e84c.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-096",
+    "slug": "evergreen-valley",
+    "title": "Evergreen Valley",
+    "medium": "Oil",
+    "date": "2021-05-02",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "mountains",
+      "mist",
+      "atmospheric perspective",
+      "wilderness"
+    ],
+    "description": "A majestic landscape featuring layered mountain peaks shrouded in atmospheric mist. The calm foreground water and dense evergreen forest anchor the scene, creating a profound sense of depth and serene isolation.",
+    "imageUrl": "/images/art/oil_paintings/20210502_pine_mountains_83b1ed42.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-097",
+    "slug": "veil-of-the-valley",
+    "title": "Veil of the Valley",
+    "medium": "Oil",
+    "date": "2022-04-17",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Mist",
+      "Atmospheric perspective",
+      "Tranquil",
+      "Impressionistic"
+    ],
+    "description": "This serene landscape captures rolling hills shrouded in ethereal mist, utilizing deep contrast in the foreground foliage against the soft, layered tones of the distant mountains. The painting evokes a profound sense of tranquility and mystery, suggesting a moment at dawn or dusk.",
+    "imageUrl": "/images/art/oil_paintings/20220417_vineyard_b77d22ef.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-098",
+    "slug": "azure-edge",
+    "title": "Azure Edge",
+    "medium": "Oil",
+    "date": "2019-01-12",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Seascape",
+      "Coastal",
+      "Deep Blue",
+      "Headland",
+      "Moody"
+    ],
+    "description": "This painting captures a dramatic coastal scene, dominated by deep, moody blues in the expansive sky and water. The contrast between the lush green headland and the powerful, brooding ocean creates a sense of dramatic tranquility.",
+    "imageUrl": "/images/art/oil_paintings/20190112_ocean_shore_1de1df61.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-099",
+    "slug": "moonlit-ruins",
+    "title": "Moonlit Ruins",
+    "medium": "Oil",
+    "date": "2021-01-01",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Fantasy",
+      "Landscape",
+      "Moonlight",
+      "Mystical",
+      "River"
+    ],
+    "description": "This atmospheric landscape captures a moment of twilight mystery, featuring a solitary rock pillar set against a luminous, oversized moon. Overhanging branches frame the scene, lending the deep blue river a dreamlike, ethereal quality.",
+    "imageUrl": "/images/art/oil_paintings/20210101_ruins_9bda159b.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-100",
+    "slug": "moonlit-passage",
+    "title": "Moonlit Passage",
+    "medium": "Oil",
+    "date": "2020-09-19",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Nightscape",
+      "Moonlight",
+      "Forest",
+      "Ethereal",
+      "Landscape"
+    ],
+    "description": "This nocturnal landscape captures a winding path through a dense, frosted forest. Illuminated by a brilliant full moon and scattered starlight, the scene evokes a deep sense of tranquility and ethereal mystery.",
+    "imageUrl": "/images/art/oil_paintings/20200919_moonlight_path_6d365f0a.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-101",
+    "slug": "magenta-tide",
+    "title": "Magenta Tide",
+    "medium": "Oil",
+    "date": "2018-12-22",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "Seascape",
+      "Tropical",
+      "Sunset",
+      "Impressionism",
+      "Magenta"
+    ],
+    "description": "This piece captures the dramatic, moody beauty of a tropical sunset. The artist uses rich magentas and purples to blend the sky, reflecting the soft glow across the undulating ocean waves, framed by silhouetted palm trees.",
+    "imageUrl": "/images/art/oil_paintings/20181222_red_tide_e48ebad6.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-102",
+    "slug": "emerald-passage",
+    "title": "Emerald Passage",
+    "medium": "Oil",
+    "date": "2020-08-09",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Impressionism",
+      "Green",
+      "Nature",
+      "Stormy Sky"
+    ],
+    "description": "This lush landscape captures the dramatic contrast between vibrant emerald foliage and a brooding, stormy sky. The composition draws the viewer down a winding, verdant path into receding hills, emphasizing the depth and mystery of nature.",
+    "imageUrl": "/images/art/oil_paintings/20200809_africa_plains_db7e7b52.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-103",
+    "slug": "emerald-veil-over-crimson-cliffs",
+    "title": "Emerald Veil Over Crimson Cliffs",
+    "medium": "Oil",
+    "date": "2023-03-05",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Tropical",
+      "Realism",
+      "Cliffs",
+      "Dramatic"
+    ],
+    "description": "This dramatic landscape captures a tropical scene where dense, verdant jungle foliage meets massive, stratified rock formations. The contrast between the deep emerald greens and the moody blue sky, set against the warm, exposed earth tones of the cliff, creates a powerful sense of natural grandeur.",
+    "imageUrl": "/images/art/oil_paintings/20230305_sedona_c01bfb33.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-104",
+    "slug": "crimson-descent",
+    "title": "Crimson Descent",
+    "medium": "Oil",
+    "date": "2019-08-13",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Twilight",
+      "Dramatic",
+      "Foliage",
+      "Mountain"
+    ],
+    "description": "This dramatic landscape captures the moment of twilight, where a vibrant crimson glow illuminates the silhouettes of distant mountains. The deep green foreground and tranquil water provide a striking contrast to the moody, colorful sky.",
+    "imageUrl": "/images/art/oil_paintings/20190813_creek_01_2cb27548.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-105",
+    "slug": "twilight-veil",
+    "title": "Twilight Veil",
+    "medium": "Oil",
+    "date": "2022-02-06",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Atmospheric",
+      "Winter landscape",
+      "Turquoise",
+      "Moody",
+      "Watercolor"
+    ],
+    "description": "This dramatic winter landscape captures a moment under heavy, brooding clouds, where deep purples and shadows dominate the scene. A striking, ethereal turquoise body of water anchors the composition, contrasting sharply with the snow-draped mounds and creating a sense of profound, cold mystery.",
+    "imageUrl": "/images/art/oil_paintings/20220206_yellowstone_winter_night_832e664f.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-106",
+    "slug": "veil-of-the-giants",
+    "title": "Veil of the Giants",
+    "medium": "Oil",
+    "date": "2019-01-05",
+    "width": "11",
+    "height": "16",
+    "tags": [
+      "Waterfall",
+      "Landscape",
+      "Majestic",
+      "Mountainscape",
+      "Aqueous"
+    ],
+    "description": "This majestic landscape captures a colossal waterfall plunging into a serene lake, framed by dramatic, purplish mountains. The composition emphasizes the sublime contrast between the solid, towering peaks and the ethereal, misty curtain of water.",
+    "imageUrl": "/images/art/oil_paintings/20190105_fjord_01_d6935661.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-107",
+    "slug": "whispers-on-the-still-water",
+    "title": "Whispers on the Still Water",
+    "medium": "Oil",
+    "date": "2021-04-25",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Tranquil",
+      "Impressionism",
+      "Misty",
+      "Water"
+    ],
+    "description": "This serene landscape captures a misty inlet where soft light filters through the surrounding foliage. The composition uses muted blues and greens to evoke a profound sense of tranquility and quiet reflection.",
+    "imageUrl": "/images/art/oil_paintings/20210425_hillside_creek_b27d142d.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-108",
+    "slug": "twilight-peaks-and-passing-waters",
+    "title": "Twilight Peaks and Passing Waters",
+    "medium": "Oil",
+    "date": "2019-01-26",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Landscape",
+      "Mountainscape",
+      "Dusk",
+      "Atmospheric",
+      "Coniferous"
+    ],
+    "description": "This atmospheric landscape captures the profound stillness of dusk in a mountainous valley. The artist masterfully uses contrasting tones—from the glowing ochre sky to the deep, cool shadows of the coniferous forest—to highlight the grandeur of the snow-capped peaks and the reflective surface of the passing river.",
+    "imageUrl": "/images/art/oil_paintings/20190126_mountain_forrest_55fb4fb1.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-109",
+    "slug": "branching-flows",
+    "title": "Branching Flows",
+    "medium": "Oil",
+    "date": "2022-11-25",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Waterfall",
+      "Landscape",
+      "Tropical",
+      "Cascade",
+      "Verdant"
+    ],
+    "description": "This vibrant painting depicts a multi-tiered waterfall cascading through dense, emerald foliage. The rich interplay of deep blues and verdant greens captures the raw, serene energy of nature's descent.",
+    "imageUrl": "/images/art/oil_paintings/20221125_multiple_waterfalls_c8126390.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-110",
+    "slug": "alpine-dawn-reflection",
+    "title": "Alpine Dawn Reflection",
+    "medium": "Oil",
+    "date": "2021-06-26",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Mountain landscape",
+      "alpine",
+      "serene",
+      "dawn",
+      "reflection"
+    ],
+    "description": "This painting captures a serene mountain landscape at dawn. A massive, snow-covered peak rises against a soft pink sky, reflected perfectly in the tranquil waters of the foreground, framed by deep evergreen forests.",
+    "imageUrl": "/images/art/oil_paintings/20210626_sunset_mountains_4ae0ea44.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-111",
+    "slug": "solitude-mountain",
+    "title": "Solitude Mountain",
+    "medium": "Oil",
+    "date": "2019-12-28",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Mountain landscape",
+      "twilight",
+      "dramatic lighting",
+      "silhouette",
+      "nature"
+    ],
+    "description": "A dramatic landscape capturing the moment of twilight, where a massive, glowing mountain peak emerges from deep shadows under a turbulent, cerulean sky. Silhouetted against this monumental backdrop are stark, skeletal trees, emphasizing the wild, dramatic scale of nature.",
+    "imageUrl": "/images/art/oil_paintings/20191228_mountain_trees_73f911eb.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-112",
+    "slug": "veil-of-the-peaks",
+    "title": "Veil of the Peaks",
+    "medium": "Oil",
+    "date": "2021-05-16",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Mountainscape",
+      "Mist",
+      "Atmospheric",
+      "Wilderness"
+    ],
+    "description": "An atmospheric landscape featuring jagged, mist-shrouded mountain peaks rising above a dense, forested valley. The interplay of cool blues, deep greens, and soft clouds creates a sense of profound mystery and quiet grandeur.",
+    "imageUrl": "/images/art/oil_paintings/20210516_misty_mountains_5d9dbdaf.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-113",
+    "slug": "into-the-gloaming-stream",
+    "title": "Into the Gloaming Stream",
+    "medium": "Oil",
+    "date": "2020-04-12",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "forest scene",
+      "creek",
+      "solitude",
+      "naturalism"
+    ],
+    "description": "This atmospheric landscape captures a secluded moment deep within the woods, where a winding creek leads the eye toward a misty, mysterious clearing. The composition evokes a sense of quiet solitude and the timeless passage through nature's shadowed heart.",
+    "imageUrl": "/images/art/oil_paintings/20200412_swamp_59f77c4e.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-114",
+    "slug": "celestial-veil",
+    "title": "Celestial Veil",
+    "medium": "Oil",
+    "date": "2022-02-20",
+    "width": "20",
+    "height": "16",
+    "tags": [
+      "Northern Lights",
+      "Aurora borealis",
+      "Nightscape",
+      "Forest",
+      "Mystical"
+    ],
+    "description": "A breathtaking depiction of the aurora borealis, where luminous curtains of green and purple light drape across a starlit night sky. The foreground features a dense, silhouetted forest, grounding the ethereal spectacle with a profound sense of wild, natural mystery.",
+    "imageUrl": "/images/art/oil_paintings/20220220_northern_light_show_e59b41b9.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-115",
+    "slug": "emerald-veil",
+    "title": "Emerald Veil",
+    "medium": "Oil",
+    "date": "2021-02-07",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Waterfall",
+      "Forest scene",
+      "Fantasy",
+      "Lush",
+      "Serene"
+    ],
+    "description": "This painting captures a moment of serene isolation, depicting a hidden waterfall cascading through a lush, overgrown forest. The use of deep emerald and sapphire tones creates an ethereal atmosphere, emphasizing the magical contrast between the cool, flowing water and the dense, verdant canopy.",
+    "imageUrl": "/images/art/oil_paintings/20210207_dark_waterfall_686ce6a6.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-116",
+    "slug": "emerald-flowing-waters",
+    "title": "Emerald Flowing Waters",
+    "medium": "Oil",
+    "date": "2022-03-27",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Waterfall",
+      "Forest Scene",
+      "Nature",
+      "Tranquil"
+    ],
+    "description": "This painting captures a moment of profound tranquility in a lush woodland setting. A gentle stream cascades over mossy rocks, surrounded by vibrant, overgrown foliage, creating an immersive and deeply serene natural scene.",
+    "imageUrl": "/images/art/oil_paintings/20220327_forest_waterfalls_83c5d585.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-117",
+    "slug": "coastal-hush",
+    "title": "Coastal Hush",
+    "medium": "Oil",
+    "date": "2022-10-02",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Seascape",
+      "Twilight",
+      "Silhouette",
+      "Coastal",
+      "Tranquility"
+    ],
+    "description": "This painting captures the serene moment of twilight over a misty bay. The contrast between the deep, dramatic foreground silhouettes and the soft, pastel hues of the glowing sky and reflective water creates a profoundly tranquil atmosphere.",
+    "imageUrl": "/images/art/oil_paintings/20221002_seaside_sunset_1c3fa00a.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-118",
+    "slug": "dusks-embrace",
+    "title": "Dusk's Embrace",
+    "medium": "Oil",
+    "date": "2020-03-08",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Landscape",
+      "Twilight",
+      "Creek",
+      "Birches",
+      "Atmospheric"
+    ],
+    "description": "The painting captures a serene moment at twilight, where a dramatic sky of crimson and indigo reflects onto a winding creek. The scene is framed by the stark, luminous trunks of trees and dense, shadowy foliage, creating a moody and peaceful atmosphere.",
+    "imageUrl": "/images/art/oil_paintings/20200308_sunset_stream_da412a28.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-119",
+    "slug": "autumns-embrace",
+    "title": "Autumn's Embrace",
+    "medium": "Oil",
+    "date": "2019-10-19",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Autumn",
+      "landscape",
+      "fall foliage",
+      "country road",
+      "seasonal"
+    ],
+    "description": "This painting captures a winding country road surrounded by a riot of autumnal color. The vibrant palette of golds, oranges, and reds contrasts beautifully with the deep blue sky, evoking a sense of peaceful, seasonal transition.",
+    "imageUrl": "/images/art/oil_paintings/20191019_wrong_way_a2c73e3c.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-120",
+    "slug": "sentinel-pillars-at-dawn",
+    "title": "Sentinel Pillars at Dawn",
+    "medium": "Oil",
+    "date": "2020-07-05",
+    "width": "10",
+    "height": "8",
+    "tags": [
+      "coastal landscape",
+      "rock formations",
+      "sunrise",
+      "seascape",
+      "dramatic sky"
+    ],
+    "description": "This painting captures a dramatic coastal scene where monumental rock pillars rise from the glowing waters. The contrast between the ethereal morning light and the brooding sky creates a sense of timeless mystery and grandeur.",
+    "imageUrl": "/images/art/oil_paintings/20200705_gaints_causeway_889244b4.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-121",
+    "slug": "azure-silence",
+    "title": "Azure Silence",
+    "medium": "Oil",
+    "date": "2019-01-19",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Mountain Vista",
+      "Twilight",
+      "Nocturne",
+      "Serenity"
+    ],
+    "description": "This dramatic mountain vista captures a moment of profound stillness at twilight. Illuminated peaks rise above a dark, reflective body of water, framed by shadowy, mist-shrouded foliage that enhances the painting's moody, ethereal atmosphere.",
+    "imageUrl": "/images/art/oil_paintings/20190119_aurora_mountains_02_65e0f49b.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-122",
+    "slug": "mist-veiled-passage",
+    "title": "Mist-Veiled Passage",
+    "medium": "Oil",
+    "date": "2022-05-30",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Mist",
+      "Tranquility",
+      "Emerald",
+      "Mountains"
+    ],
+    "description": "This painting depicts a tranquil, misty landscape where a river flows through lush, vibrant emerald fields. The dramatic, cloud-filled sky contrasts with the soft light illuminating the distant, hazy mountains, creating an ethereal sense of depth and peace.",
+    "imageUrl": "/images/art/oil_paintings/20220530_marshland_db6a412e.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-123",
+    "slug": "veil-of-whispers",
+    "title": "Veil of Whispers",
+    "medium": "Oil",
+    "date": "2022-01-30",
+    "width": "20",
+    "height": "18",
+    "tags": [
+      "Landscape",
+      "Mist",
+      "Forest",
+      "Ethereal",
+      "Serenity"
+    ],
+    "description": "This ethereal landscape captures a dense mountain forest shrouded in luminous morning mist. The contrast between the deep, textured foreground and the soft, glowing fog creates a profoundly serene and dreamlike atmosphere.",
+    "imageUrl": "/images/art/oil_paintings/20220130_winter_valley_39b418c4.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-124",
+    "slug": "alpine-dusk",
+    "title": "Alpine Dusk",
+    "medium": "Oil",
+    "date": "2019-03-23",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Mountains",
+      "Twilight",
+      "Atmospheric",
+      "Wilderness"
+    ],
+    "description": "This atmospheric landscape captures the dramatic transition of twilight over a majestic mountain range. The contrast between the cool, brooding blues of the peaks and the warm, luminous glow of the valley floor imbues the scene with a sense of quiet, monumental drama.",
+    "imageUrl": "/images/art/oil_paintings/20190323_winter_field_5432d93c.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-125",
+    "slug": "dawns-embrace-on-the-river",
+    "title": "Dawn's Embrace on the River",
+    "medium": "Oil",
+    "date": "2020-11-15",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "River scene",
+      "Impressionism",
+      "Verdant",
+      "Dawn"
+    ],
+    "description": "This painting captures a serene moment at dawn, where a misty river winds through steep, verdant gorges. The artist masterfully uses soft, diffused light and pastel tones to evoke a sense of profound peace and natural majesty.",
+    "imageUrl": "/images/art/oil_paintings/20201115_fjord_b22fdae9.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-126",
+    "slug": "rivers-misty-embrace",
+    "title": "River's Misty Embrace",
+    "medium": "Oil",
+    "date": "2020-10-25",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Impressionism",
+      "River Scene",
+      "Tranquility",
+      "Foliage"
+    ],
+    "description": "This impressionistic landscape captures a moment of profound tranquility at a riverbank. The artist uses diffused light and rich greens to evoke a misty atmosphere, contrasting the dark, reflective water with the bright vertical presence of the foreground tree.",
+    "imageUrl": "/images/art/oil_paintings/20201025_dark_forest_1d457c7d.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-127",
+    "slug": "canopy-veil",
+    "title": "Canopy Veil",
+    "medium": "Oil",
+    "date": "2021-10-08",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Impressionism",
+      "forest scene",
+      "ethereal",
+      "woodland",
+      "diffused light"
+    ],
+    "description": "This painting captures a deeply atmospheric woodland scene. The artist uses soft, diffused greens and grays to create a sense of misty light filtering through the sprawling, skeletal branches, giving the viewer a tranquil, ethereal journey into nature.",
+    "imageUrl": "/images/art/oil_paintings/20210808_sunny_forrest_interior_f02f564b.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-128",
+    "slug": "whispers-of-the-verdant-path",
+    "title": "Whispers of the Verdant Path",
+    "medium": "Oil",
+    "date": "2021-01-16",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Forest",
+      "Misty",
+      "Path",
+      "Ethereal",
+      "Impressionism"
+    ],
+    "description": "This painting captures an ethereal moment as a winding path disappears into a misty forest. Soft, diffused light breaks through the canopy, creating a sense of mystery and deep tranquility.",
+    "imageUrl": "/images/art/oil_paintings/20210116_after_the_rain_2311db8c.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-129",
+    "slug": "crimson-veil",
+    "title": "Crimson Veil",
+    "medium": "Oil",
+    "date": "2019-05-10",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "twilight",
+      "crimson",
+      "moody",
+      "reflection"
+    ],
+    "description": "This moody landscape captures the dramatic moment of twilight, where dense, shadowy foliage frames a view across dark water. The brilliant, brooding crimson of the sky reflects intensely, creating a powerful contrast between earth and atmosphere.",
+    "imageUrl": "/images/art/oil_paintings/20190510_forrest_lake_ff9804a4.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-130",
+    "slug": "emerald-curve",
+    "title": "Emerald Curve",
+    "medium": "Oil",
+    "date": "2022-04-03",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Landscape",
+      "Pastoral",
+      "Serenity",
+      "Rolling Hills",
+      "Country Road"
+    ],
+    "description": "This painting captures a winding country road cutting through intensely vibrant, rolling hills. The artist uses soft blending and dramatic lighting to create a profound sense of peace and journey, emphasizing the lush emerald foliage against the moody sky.",
+    "imageUrl": "/images/art/oil_paintings/20220403_rural_pathway_18cf8c3e.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-131",
+    "slug": "twilights-veil",
+    "title": "Twilight's Veil",
+    "medium": "Oil",
+    "date": "2022-06-19",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "twilight",
+      "starry night",
+      "lake",
+      "ethereal"
+    ],
+    "description": "This painting captures a serene moment at twilight. The luminous glow of the horizon contrasts dramatically with the deep, star-speckled sky, illuminating a tranquil lake nestled among lush, vibrant green hills.",
+    "imageUrl": "/images/art/oil_paintings/20220619_twilight_lake_93a1cff8.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-132",
+    "slug": "twilight-watch",
+    "title": "Twilight Watch",
+    "medium": "Oil",
+    "date": "2020-03-01",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Twilight",
+      "Rural",
+      "Melancholy",
+      "Atmospheric"
+    ],
+    "description": "This atmospheric landscape captures the quiet drama of twilight in a secluded rural setting. A skeletal tree and an isolated white farmhouse are framed beneath heavy, moody skies, creating a profound sense of melancholy and mystery.",
+    "imageUrl": "/images/art/oil_paintings/20200301_storm_219ac5d3.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-133",
+    "slug": "passage-of-gold",
+    "title": "Passage of Gold",
+    "medium": "Oil",
+    "date": "2019-08-27",
+    "width": "10",
+    "height": "8",
+    "tags": [
+      "Landscape",
+      "gorge",
+      "river",
+      "sunset",
+      "dramatic"
+    ],
+    "description": "This dramatic landscape depicts a river winding through a deep gorge, framed by imposing, shadowed cliffs. The contrasting light of the horizon, glowing in hues of gold and orange, imbues the scene with a powerful, ethereal sense of passage.",
+    "imageUrl": "/images/art/oil_paintings/20190827_fjord_3_60068f2a.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-134",
+    "slug": "golden-hour-silhouette",
+    "title": "Golden Hour Silhouette",
+    "medium": "Oil",
+    "date": "2019-06-29",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Sunset",
+      "Silhouette",
+      "Rustic",
+      "Golden Hour"
+    ],
+    "description": "The painting captures a serene rural scene bathed in the warm glow of sunset. A large, dark tree dominates the left, while a receding fence line guides the viewer's eye toward the bright horizon, emphasizing depth and peaceful transition.",
+    "imageUrl": "/images/art/oil_paintings/20190629_tree_54fbe06b.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-135",
+    "slug": "highland-serenity",
+    "title": "Highland Serenity",
+    "medium": "Oil",
+    "date": "2022-07-17",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "mountains",
+      "alpine",
+      "serenity",
+      "mist"
+    ],
+    "description": "The canvas captures a moment of dramatic stillness in a high alpine valley. Lush foreground grasses frame a tranquil pond, set against the majestic backdrop of mist-shrouded peaks reaching toward a pale blue sky.",
+    "imageUrl": "/images/art/oil_paintings/20220717_mountain_pond_66ad888d.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-136",
+    "slug": "verdant-edge",
+    "title": "Verdant Edge",
+    "medium": "Oil",
+    "date": "2021-10-31",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Nature Scene",
+      "Cliffside",
+      "Impressionistic",
+      "Foliage"
+    ],
+    "description": "A vibrant landscape study capturing the dramatic meeting point of earth and sky. The composition features a steep, shadowed cliff face giving way to a lush, sun-dappled forest beneath an expansive, brilliant blue sky.",
+    "imageUrl": "/images/art/oil_paintings/20210131_rocky_valley_448ae5a2.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-137",
+    "slug": "reflections-in-the-verdant-hush",
+    "title": "Reflections in the Verdant Hush",
+    "medium": "Oil",
+    "date": "2019-08-20",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "landscape",
+      "forest scene",
+      "woodland",
+      "pond",
+      "tranquility"
+    ],
+    "description": "This tranquil landscape captures a secluded woodland scene, where dense, richly colored foliage frames several reflective ponds. The artist masterfully uses contrasting blues in the sky and water against the deep greens and autumnal golds of the forest, evoking a profound sense of peace and natural mystery.",
+    "imageUrl": "/images/art/oil_paintings/20190820_three_lakes_8aac5d27.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-138",
+    "slug": "mauve-reflections",
+    "title": "Mauve Reflections",
+    "medium": "Oil",
+    "date": "2021-03-28",
+    "width": "18",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "twilight",
+      "ethereal",
+      "reflection",
+      "impressionism"
+    ],
+    "description": "This ethereal landscape captures the moment at twilight, utilizing soft mauves and pinks to imbue the scene with a dreamlike quality. The composition focuses on the still, reflective water, mirroring the dramatic, cloud-laden sky and the surrounding misty woods.",
+    "imageUrl": "/images/art/oil_paintings/20210328_red_lake_cdf09b97.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-139",
+    "slug": "azure-veil",
+    "title": "Azure Veil",
+    "medium": "Oil",
+    "date": "2021-02-28",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Mountainscape",
+      "Atmospheric",
+      "Coniferous",
+      "Misty"
+    ],
+    "description": "This dramatic landscape captures a mountain vista shrouded in mist, contrasting the dark, dense coniferous forest in the foreground with the luminous, color-shifting sky. The ethereal haze and distant peaks evoke a sense of deep, atmospheric solitude at twilight.",
+    "imageUrl": "/images/art/oil_paintings/20210228_sunrise_mountain_1b2d4f00.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-140",
+    "slug": "twilights-reckoning",
+    "title": "Twilight's Reckoning",
+    "medium": "Oil",
+    "date": "2020-05-10",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Seascape",
+      "stormy",
+      "dramatic",
+      "crashing waves",
+      "coastal"
+    ],
+    "description": "This dramatic seascape captures the raw, untamed power of the ocean as massive waves crash against storm-battered cliffs. The artist employs a rich palette of deep blues and turbulent golds to heighten the dramatic tension between the churning sea and the ominous sky.",
+    "imageUrl": "/images/art/oil_paintings/20200510_lighthouse_db669a58.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-141",
+    "slug": "veil-of-dawn",
+    "title": "Veil of Dawn",
+    "medium": "Oil",
+    "date": "",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Mist",
+      "Dawn",
+      "Atmospheric",
+      "Ethereal"
+    ],
+    "description": "This ethereal landscape captures the transitional moment of dawn through a curtain of mist. The soft blending and muted palette of greys and warm golds create a deeply atmospheric and mysterious portrayal of the woods.",
+    "imageUrl": "/images/art/oil_paintings/20210123_winter_sunset_6f87047c.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-142",
+    "slug": "river-of-soft-light",
+    "title": "River of Soft Light",
+    "medium": "Oil",
+    "date": "2021-06-27",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "landscape",
+      "river scene",
+      "impressionism",
+      "nature",
+      "soft colors"
+    ],
+    "description": "This serene landscape captures a woodland river bathed in the soft hues of dawn or dusk. The artist utilizes blended color washes and diffused light to evoke a sense of quiet tranquility and atmospheric depth.",
+    "imageUrl": "/images/art/oil_paintings/20210627_sunset_reflections_09371052.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-143",
+    "slug": "twilight-ascent",
+    "title": "Twilight Ascent",
+    "medium": "Oil",
+    "date": "2019-11-28",
+    "width": "20",
+    "height": "16",
+    "tags": [
+      "Landscape",
+      "Mountainscape",
+      "Autumnal",
+      "Dramatic",
+      "Nature"
+    ],
+    "description": "A dramatic landscape capturing the meeting point of an autumn forest and towering peaks. The contrast between the deep indigo sky, the rugged mountain mass, and the warm, autumnal glow of the foreground trees creates a sense of profound natural grandeur.",
+    "imageUrl": "/images/art/oil_paintings/20191128_mountain_trees_d9b86a7b.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-144",
+    "slug": "emerald-descent",
+    "title": "Emerald Descent",
+    "medium": "Oil",
+    "date": "2022-01-16",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Waterfall",
+      "Landscape",
+      "Forest Scene",
+      "Cascade",
+      "Tranquility"
+    ],
+    "description": "This highly detailed landscape captures a majestic, multi-tiered waterfall plunging through a lush, verdant forest. The scene evokes a sense of deep natural tranquility, drawing the viewer along the path toward the powerful, cascading water.",
+    "imageUrl": "/images/art/oil_paintings/20220116_waterfall_bridge_c287e22d.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-145",
+    "slug": "alpine-veil",
+    "title": "Alpine Veil",
+    "medium": "Oil",
+    "date": "2018-12-09",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Landscape",
+      "Mountainscape",
+      "Serenity",
+      "Alpine",
+      "Nature"
+    ],
+    "description": "A sweeping landscape capturing the grandeur of a mountain range reflected in tranquil waters. The artist uses soft blues and greens to evoke a sense of deep serenity, contrasting the sharp peaks against the soft, cloudy sky.",
+    "imageUrl": "/images/art/oil_paintings/20181209_summer_mountain_4e827d0f.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-146",
+    "slug": "emerald-echo",
+    "title": "Emerald Echo",
+    "medium": "Oil",
+    "date": "2018-10-13",
+    "width": "10",
+    "height": "8",
+    "tags": [
+      "Muscle car",
+      "Americana",
+      "Landscape painting",
+      "Retro",
+      "Open road"
+    ],
+    "description": "This stylized painting captures a vintage muscle car parked against a dramatic backdrop of arid, reddish canyons. The muted green of the vehicle contrasts beautifully with the warm earth tones, evoking a sense of nostalgic freedom and open road adventure.",
+    "imageUrl": "/images/art/oil_paintings/20181013_car_01_32d4b932.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-147",
+    "slug": "whispers-from-the-deep-green",
+    "title": "Whispers from the Deep Green",
+    "medium": "Oil",
+    "date": "2018-11-30",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Horror",
+      "Nocturnal",
+      "Amorphous",
+      "Verdant",
+      "Surrealism"
+    ],
+    "description": "This piece features an amorphous, shadowy figure emerging from a deep, verdant darkness. Its glowing eyes and unsettling grin create an atmosphere of palpable dread, suggesting a mysterious or supernatural presence lurking just beyond the light.",
+    "imageUrl": "/images/art/oil_paintings/20181130_monster_forrest_146c1f64.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-148",
+    "slug": "veil-of-the-cascade",
+    "title": "Veil of the Cascade",
+    "medium": "Oil",
+    "date": "2019-06-16",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "waterfall",
+      "river",
+      "moody",
+      "foliage"
+    ],
+    "description": "This moody landscape captures the moment a river descends through a misty cascade. Dense, autumnal foliage frames the scene beneath a dramatic, twilight sky, emphasizing the raw power and tranquility of nature.",
+    "imageUrl": "/images/art/oil_paintings/20190616_waterfall_f0e879ea.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-149",
+    "slug": "emerald-canopy",
+    "title": "Emerald Canopy",
+    "medium": "Oil",
+    "date": "2020-02-16",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Aurora Borealis",
+      "Nocturnal",
+      "Atmospheric",
+      "Silhouette"
+    ],
+    "description": "This dramatic nocturnal landscape captures a secluded scene where silhouetted trees stand before dark mountain peaks. Above the rugged terrain, the ethereal glow of the aurora borealis illuminates the deep indigo sky, creating a sense of profound natural mystery.",
+    "imageUrl": "/images/art/oil_paintings/20200216_aurora4_2c8e97cd.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-150",
+    "slug": "valleys-whispering-passage",
+    "title": "Valley's Whispering Passage",
+    "medium": "Oil",
+    "date": "2019-11-09",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Mountainscape",
+      "River",
+      "Dusk",
+      "Wilderness"
+    ],
+    "description": "This dramatic landscape captures a mountainous vista at dusk, where a winding river guides the viewer through a deep, shadowed valley. The composition is defined by the imposing, layered peaks and the moody contrast between the deep blues of the twilight sky and the last rays of light breaking over the distant mountains.",
+    "imageUrl": "/images/art/oil_paintings/20191109_mountain_cliffs_36b8f4aa.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-151",
+    "slug": "emerald-silence",
+    "title": "Emerald Silence",
+    "medium": "Oil",
+    "date": "2023-02-26",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape painting",
+      "nature scene",
+      "tranquility",
+      "reeds",
+      "lake"
+    ],
+    "description": "This painting captures a deeply serene moment on a vast, tranquil lake. Lush reeds and lily pads dominate the foreground, framing the expansive water that mirrors the dramatic, cloud-filled sky and the gentle curve of the distant, wooded shoreline.",
+    "imageUrl": "/images/art/oil_paintings/20230226_lily_pond_66fe863e.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-152",
+    "slug": "twilight-lagoon",
+    "title": "Twilight Lagoon",
+    "medium": "Oil",
+    "date": "2021-07-11",
+    "width": "10",
+    "height": "8",
+    "tags": [
+      "Tropical",
+      "Dusk",
+      "Silhouette",
+      "Coastal Landscape",
+      "Lagoon"
+    ],
+    "description": "This painting captures the dramatic, ethereal transition of light over a tropical coast at dusk. Strong silhouettes of palm trees frame a serene lagoon, drawing the viewer's eye toward the luminous horizon and the solitary sentinel palm.",
+    "imageUrl": "/images/art/oil_paintings/20210711_florida_sunset_ff3f0526.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-153",
+    "slug": "dawns-veil",
+    "title": "Dawn's Veil",
+    "medium": "Oil",
+    "date": "2020-11-22",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Atmospheric",
+      "Landscape",
+      "Mist",
+      "Dawn",
+      "Tranquility"
+    ],
+    "description": "The scene is shrouded in soft, pastel-toned mist at dawn. Silhouetted against the gentle light, bare branches frame a misty lake, creating a deeply tranquil and ethereal mood.",
+    "imageUrl": "/images/art/oil_paintings/20201122_sunset_river_3e42e450.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-154",
+    "slug": "misty-dawn",
+    "title": "Misty Dawn",
+    "medium": "Oil",
+    "date": "2022-06-12",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Atmospheric",
+      "Landscape",
+      "Fog",
+      "Tranquil",
+      "Woodland"
+    ],
+    "description": "This painting captures a serene, foggy landscape at dawn. The artist uses soft blending and muted colors to create a sense of deep mystery, allowing the ethereal light breaking through the mist to illuminate the distant woods and the calm, reflective water below.",
+    "imageUrl": "/images/art/oil_paintings/20220612_mysterious_forset_9045dc1a.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-155",
+    "slug": "alpine-serenity",
+    "title": "Alpine Serenity",
+    "medium": "Oil",
+    "date": "2021-02-20",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "mountains",
+      "mist",
+      "serene",
+      "nature"
+    ],
+    "description": "A sweeping landscape capturing the quiet grandeur of distant, mist-shrouded peaks. The scene is framed by a calm body of water and lush, verdant foreground foliage, evoking a deep sense of natural tranquility.",
+    "imageUrl": "/images/art/oil_paintings/20210220_two_pond_mountain_0a66fa37.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-156",
+    "slug": "summits-veil",
+    "title": "Summit's Veil",
+    "medium": "Oil",
+    "date": "2023-01-01",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Mountain landscape",
+      "Stormy sky",
+      "Alpine vista",
+      "Dramatic realism",
+      "Glacier"
+    ],
+    "description": "A sublime mountain vista is captured beneath a brooding, stormy sky. The dark, deep water contrasts sharply with the luminous, flowing foreground elements, while rugged, snow-capped peaks loom dramatically in the distance.",
+    "imageUrl": "/images/art/oil_paintings/20230101_dream_lake_51a080a8.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-157",
+    "slug": "flowing-creak-through-the-mysterious-forest",
+    "title": "Flowing Creak Through the Mysterious Forest",
+    "medium": "Oil",
+    "date": "2019-06-02",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Landscape",
+      "Waterfall",
+      "Forest",
+      "Mystical",
+      "Deep Greens"
+    ],
+    "description": "This painting captures an ethereal waterfall cascading through a dense, shadowed forest. Dramatic contrast is achieved through the interplay of deep emerald foliage and a brilliant, golden light that illuminates the rushing water, evoking a sense of secluded mystery and tranquility.",
+    "imageUrl": "/images/art/oil_paintings/20190602_dark_forrest_869506ee.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-158",
+    "slug": "rolling-mountain-vista",
+    "title": "Rolling Mountain Vista",
+    "medium": "Oil",
+    "date": "2019-03-16",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "Mountain",
+      "Nature",
+      "Moody Sky",
+      "Pastoral"
+    ],
+    "description": "This dramatic landscape captures a moment of profound solitude, guiding the viewer from lush, wildflower-dotted hills toward colossal, cloud-shrouded peaks. The contrast between the vibrant, earthy foreground and the moody, atmospheric sky lends the scene an epic, wild quality.",
+    "imageUrl": "/images/art/oil_paintings/20190316_forrest_valley_36b84ebe.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-159",
+    "slug": "alpine-giants",
+    "title": "Alpine Giants",
+    "medium": "Oil",
+    "date": "2021-10-22",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Landscape",
+      "mountains",
+      "nature",
+      "alpine",
+      "dramatic"
+    ],
+    "description": "The painting captures a sweeping view of rugged mountain peaks rising dramatically above a lush, forested valley. The contrast between the cool, cloudy sky, the massive rock formations, and the dark green foreground creates a sense of immense scale and natural power.",
+    "imageUrl": "/images/art/oil_paintings/20210822_mountain_peaks_5f48dd75.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-160",
+    "slug": "crimson-tempest",
+    "title": "Crimson Tempest",
+    "medium": "Oil",
+    "date": "2019-07-06",
+    "width": "20",
+    "height": "16",
+    "tags": [
+      "Seascape",
+      "Tropical",
+      "Storm",
+      "Dramatic",
+      "Twilight"
+    ],
+    "description": "This dramatic seascape captures the volatile beauty of a tropical storm at twilight. The canvas features a clash of colors, where the deep reds and oranges of the stormy sky contrast sharply with the dark, churning ocean and the silhouetted structures on the shore.",
+    "imageUrl": "/images/art/oil_paintings/20190706_beach_01_76c814e9.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-161",
+    "slug": "auroras-veil-over-the-silent-peaks",
+    "title": "Aurora's Veil over the Silent Peaks",
+    "medium": "Oil",
+    "date": "2019-05-04",
+    "width": "11",
+    "height": "14",
+    "tags": [
+      "Nocturne",
+      "Aurora Borealis",
+      "Mountainscape",
+      "Ethereal",
+      "Landscape"
+    ],
+    "description": "This dramatic nocturnal landscape captures jagged mountains and still waters bathed in the ethereal glow of the aurora borealis. The composition utilizes deep, cool blues and contrasting shadows to evoke a sublime sense of mystery and immense natural grandeur.",
+    "imageUrl": "/images/art/oil_paintings/20190504_aurora_mountains_04_ddcb1441.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-162",
+    "slug": "emerald-pond",
+    "title": "Emerald Pond",
+    "medium": "Oil",
+    "date": "2018-12-08",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "Landscape",
+      "Nature",
+      "Impressionism",
+      "Pond",
+      "Deep Greens"
+    ],
+    "description": "The artwork presents a tranquil, immersive view of a woodland pond, dominated by lush emerald tones. The dense, textural foliage frames the dark, reflective water, creating a profound sense of deep solitude and natural mystery.",
+    "imageUrl": "/images/art/oil_paintings/20181208_green_forrest_ee0a0b4b.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-163",
+    "slug": "crimson-ascent",
+    "title": "Crimson Ascent",
+    "medium": "Oil",
+    "date": "2019-04-06",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Mysterious",
+      "Twilight",
+      "Gothic",
+      "Landscape",
+      "Fog"
+    ],
+    "description": "This moody landscape captures a mysterious destination, where a foggy path leads up to a shadowed house. The dramatic interplay of deep twilight blues and fiery sunset oranges evokes a sense of gothic nostalgia and profound journey.",
+    "imageUrl": "/images/art/oil_paintings/20190406_forrest_house_862d95e5.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "oil-164",
+    "slug": "emerald-curtain",
+    "title": "Emerald Curtain",
+    "medium": "Oil",
+    "date": "2021-07-18",
+    "width": "18",
+    "height": "24",
+    "tags": [
+      "Forest",
+      "woodland",
+      "path",
+      "dappled light",
+      "landscape"
+    ],
+    "description": "This scene depicts a secluded path winding into a deeply verdant forest. Shafts of dappled sunlight filter through the towering canopy, creating an ethereal, mysterious atmosphere of natural tranquility.",
+    "imageUrl": "/images/art/oil_paintings/20210718_inside_the_forest_57fd8ba2.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-018",
+    "slug": "the-color-of-confidence",
+    "title": "The Color of Confidence",
+    "medium": "Acrylic",
+    "date": "2025-03-30",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Portraiture",
+      "Pop Art",
+      "Vibrant colors",
+      "Enigmatic",
+      "Modern glamour"
+    ],
+    "description": "This vibrant portrait captures the subject with striking warmth, utilizing saturated tones to define the contours of the face and hair. The oversized sunglasses create an enigmatic barrier, transforming a confident gaze into a modern study of mystery and self-possession.",
+    "imageUrl": "/images/art/oil_paintings/20250330_color_of_confidence_b804e674.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-017",
+    "slug": "the-porcelain-scream",
+    "title": "The Porcelain Scream",
+    "medium": "Acrylic",
+    "date": "2023-10-08",
+    "width": "",
+    "height": "",
+    "tags": [
+      "Horror",
+      "Clown portrait",
+      "Macabre",
+      "Decay",
+      "Expressionism"
+    ],
+    "description": "This haunting portrait captures a clown figure, whose unsettling, painted smile contrasts sharply with the decay visible on the skin. The piece explores themes of hidden terror and the disturbing facade of performance art.",
+    "imageUrl": "/images/art/oil_paintings/20231008_hell_clown_0d2e7f2d.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-016",
+    "slug": "crimson-still-life",
+    "title": "Crimson Still Life",
+    "medium": "Acrylic",
+    "date": "2023-06-01",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "Still life",
+      "peppers",
+      "rustic",
+      "culinary",
+      "still life painting"
+    ],
+    "description": "This vibrant still life captures a collection of freshly cut ingredients—a plump red bell pepper, curved chilies, and a resting knife—arranged on a rustic wooden surface. The artist utilizes rich reds and contrasting cool tones to emphasize the bounty and vivid colors of the harvest.",
+    "imageUrl": "/images/art/oil_paintings/20230601_cut_bell_peppers_50ce893c.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-001",
+    "slug": "whispers-of-the-bloom",
+    "title": "Whispers of the Bloom",
+    "medium": "Acrylic",
+    "date": "2023-08-19",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Floral",
+      "Figure Study",
+      "Romanticism",
+      "Botanical",
+      "Surrealism"
+    ],
+    "description": "This lush and sensual painting is a vibrant study of nature and the human form. Deep crimson roses and golden blossoms are intricately intertwined with the subject's skin, creating a richly colored, romantic tapestry of life and decay.",
+    "imageUrl": "/images/art/acrylic_paintings/20230819_flowers_in_her_hair_e5b8ce4d.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-002",
+    "slug": "shoreline-spores",
+    "title": "Shoreline Spores",
+    "medium": "Acrylic",
+    "date": "2023-05-27",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Mushrooms",
+      "Beach scene",
+      "Surreal",
+      "Whimsical",
+      "Coastal landscape"
+    ],
+    "description": "This whimsical painting captures giant, spotted mushrooms thriving on a sandy beach, juxtaposing the vibrant, earthy forms against the vast, serene blue of the ocean and sky. The composition evokes a dreamlike, fantastical moment of natural abundance.",
+    "imageUrl": "/images/art/acrylic_paintings/20230527_blockers_on_the_beach_a60733be.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-015",
+    "slug": "the-colour-out-of-the-office-kitchenette",
+    "title": "The Colour Out of the Office Kitchenette",
+    "medium": "Acrylic",
+    "date": "2026-04-08",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Science",
+      "Chemistry",
+      "Industrial",
+      "Glow",
+      "Hazard"
+    ],
+    "description": "This painting captures a scientist in protective gear handling a glowing, viscous substance in a dimly lit, industrial setting. The vibrant yellow-green light contrasts sharply with the dark background, evoking themes of scientific discovery and controlled hazard.",
+    "imageUrl": "/images/art/oil_paintings/20250408_the_colour_out_of_the_office_kitchenette_1a198eac.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-003",
+    "slug": "bell-pepper-splash",
+    "title": "Bell Pepper Splash",
+    "medium": "Acrylic",
+    "date": "2023-06-23",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Still life",
+      "vibrant",
+      "dramatic",
+      "glowing",
+      "painting"
+    ],
+    "description": "This dramatic still life captures a richly glowing red pepper, emanating a burst of luminous energy. The artist utilizes dynamic light and deep contrast to evoke a sense of vibrant life force, making the subject appear magical against the dark background.",
+    "imageUrl": "/images/art/acrylic_paintings/20230623_bell_pepper_splash_c214cb40.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-014",
+    "slug": "crimson-bounty",
+    "title": "Crimson Bounty",
+    "medium": "Acrylic",
+    "date": "2023-06-19",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "still life",
+      "tomatoes",
+      "harvest",
+      "rustic",
+      "food art"
+    ],
+    "description": "This still life arrangement features a cluster of ripe, deep-red tomatoes resting on a rustic wooden board. The composition captures the vibrant abundance and earthy textures of a summer harvest.",
+    "imageUrl": "/images/art/oil_paintings/20230619_bowl_of_peppers_93fcbbb2.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-013",
+    "slug": "crimson-rose-cascade",
+    "title": "Crimson Rose Cascade",
+    "medium": "Acrylic",
+    "date": "2023-05-28",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "Floral",
+      "Peonies",
+      "Still Life",
+      "Red",
+      "Vibrant"
+    ],
+    "description": "This vibrant floral piece features a lush arrangement of deeply saturated red blooms, rendered with thick, painterly strokes. The warm yellow background enhances the dramatic contrast, making the flowers appear rich and luminous.",
+    "imageUrl": "/images/art/oil_paintings/20230528_roeses_2fc61841.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-012",
+    "slug": "crimson-pepper-harvest",
+    "title": "Crimson Pepper Harvest",
+    "medium": "Acrylic",
+    "date": "2023-05-29",
+    "width": "10",
+    "height": "8",
+    "tags": [
+      "Still life",
+      "chili peppers",
+      "vibrant",
+      "food painting",
+      "harvest"
+    ],
+    "description": "This vibrant still life captures a bountiful arrangement of deep red chili peppers, clustered within a dark bowl. The inclusion of an opened pepper dramatically reveals its inner seeds, emphasizing the peppers' potent beauty and rustic, fiery abundance.",
+    "imageUrl": "/images/art/oil_paintings/20230529_bowl_of_peppers_1a7022d3.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-011",
+    "slug": "crimson-grape-bunch",
+    "title": "Crimson Grape Bunch",
+    "medium": "Acrylic",
+    "date": "2023-04-13",
+    "width": "10",
+    "height": "8",
+    "tags": [
+      "grapes",
+      "still life",
+      "nature painting",
+      "crimson",
+      "botanical"
+    ],
+    "description": "This painting captures a lush cluster of deep crimson grapes set against vibrant green leaves. The artist uses rich tonal variations and soft blending to give the berries a glossy, weighty appearance, creating a moody and richly colored still life.",
+    "imageUrl": "/images/art/oil_paintings/20230413_grape_bundle_369634b9.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-010",
+    "slug": "bottled-rose",
+    "title": "Bottled Rose",
+    "medium": "Acrylic",
+    "date": "2025-03-22",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "Still life",
+      "rose",
+      "floral",
+      "dramatic",
+      "contrast"
+    ],
+    "description": "This dramatic still life captures a single, richly colored rose emerging from a simple glass vase. The contrast between the luminous crimson petals and the deep indigo background creates a sense of intense, romantic drama.",
+    "imageUrl": "/images/art/oil_paintings/20250322_bottled_beauty_629d0c71.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-009",
+    "slug": "springs-whisper",
+    "title": "Spring's Whisper",
+    "medium": "Acrylic",
+    "date": "2023-04-21",
+    "width": "12",
+    "height": "9",
+    "tags": [
+      "Botanical",
+      "Spring",
+      "Butterfly",
+      "Floral",
+      "Nature"
+    ],
+    "description": "This vibrant botanical study captures the ephemeral beauty of spring, featuring clusters of delicate white blossoms on intertwining branches. A striking crimson butterfly adds a dynamic focal point, symbolizing the lively cycle of nature.",
+    "imageUrl": "/images/art/oil_paintings/20230421_flowers_and_butterflies_be2372ec.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-004",
+    "slug": "golden-comfort",
+    "title": "Golden Comfort",
+    "medium": "Acrylic",
+    "date": "2024-05-29",
+    "width": "10",
+    "height": "8",
+    "tags": [
+      "still life",
+      "sunflowers",
+      "coffee",
+      "floral",
+      "oil painting"
+    ],
+    "description": "This vibrant still life juxtaposes the bright, cheerful energy of sunflowers against the quiet intimacy of a warm cup of coffee. The contrasting colors—rich yellows, deep browns, and cool grays—create a mood of warm, contemplative stillness.",
+    "imageUrl": "/images/art/acrylic_paintings/20240529_my_cup_of_tea_c418feb0.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-005",
+    "slug": "ephemeral-bloom",
+    "title": "Ephemeral Bloom",
+    "medium": "Acrylic",
+    "date": "2023-05-21",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "Floral",
+      "Butterflies",
+      "Romanticism",
+      "Nature",
+      "Still Life"
+    ],
+    "description": "This painting features lush, richly colored pink flowers and deep green foliage, creating a romantic floral arrangement. Scattered blue butterflies add a whimsical, delicate touch, evoking the fleeting beauty of a spring day.",
+    "imageUrl": "/images/art/acrylic_paintings/20230521_flowers_and_butterflies_02_0e326bae.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-006",
+    "slug": "suns-golden-bounty",
+    "title": "Sun's Golden Bounty",
+    "medium": "Acrylic",
+    "date": "2023-07-02",
+    "width": "8",
+    "height": "10",
+    "tags": [
+      "sunflowers",
+      "still life",
+      "impasto",
+      "floral",
+      "autumn"
+    ],
+    "description": "This vibrant still life features a lush bouquet of sunflowers and rich green foliage, radiating the warmth of late summer. The artist utilizes thick, textured impasto strokes and deep contrasting tones to capture the joyful, rustic energy of the blooming flowers.",
+    "imageUrl": "/images/art/acrylic_paintings/20230702_flower_pot_883fc468.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-007",
+    "slug": "suns-embrace",
+    "title": "Sun's Embrace",
+    "medium": "Acrylic",
+    "date": "2026-03-16",
+    "width": "16",
+    "height": "20",
+    "tags": [
+      "Sunflower",
+      "Floral painting",
+      "Yellow",
+      "Oil on canvas",
+      "Contrast"
+    ],
+    "description": "This vibrant painting captures a monumental sunflower, its brilliant yellow petals radiating warmth against a moody, deep blue background. The rich contrast emphasizes the flower's robust texture and natural, sun-drenched beauty.",
+    "imageUrl": "/images/art/acrylic_paintings/20260316_bee_visitation_d1069fb3.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "acrylic-008",
+    "slug": "crimson-bloom",
+    "title": "Crimson Bloom",
+    "medium": "Acrylic",
+    "date": "2023-05-27",
+    "width": "6",
+    "height": "6",
+    "tags": [
+      "Roses",
+      "Floral Still Life",
+      "Red",
+      "Botanical",
+      "Vibrant"
+    ],
+    "description": "This painting features three vibrant red roses set against a bright yellow background. The artist uses bold, expressive brushstrokes to capture the velvety texture of the petals, creating a sense of lush, romantic energy.",
+    "imageUrl": "/images/art/acrylic_paintings/20230527_rose_e6eee293.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "mixed-001",
+    "slug": "gorri-os-cereal",
+    "title": "Gorri-O's Cereal",
+    "medium": "Mixed Media",
+    "date": "2026-01-25",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "Cartoon",
+      "Mascot",
+      "Pop Art",
+      "Whimsical",
+      "Advertising"
+    ],
+    "description": "Silly kids, Gori-O's cereal is for your eyes only!\n\nThis vibrant, cartoon portrait features a whimsical mascot for \"Gori-O's Cereal.\" The artist uses exaggerated features, particularly the character's massive eyes and wide grin, to create a playful commentary on commercial advertising and the joy of breakfast.",
+    "imageUrl": "/images/art/mixed_media_drawings/20250125_gorios_cereal_165a3ee2.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "mixed-002",
+    "slug": "the-beauty-and-horror-of-broken-things",
+    "title": "The Beauty and Horror of Broken Things",
+    "medium": "Mixed Media",
+    "date": "2026-01-12",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "Botanical",
+      "Gothic",
+      "Still Life",
+      "Spiders",
+      "Lush"
+    ],
+    "description": "This dramatic painting captures a lush, overgrown scene of lilies and tropical foliage bathed in window light. The unexpected inclusion of spiders introduces a gothic tension, contrasting the vibrant life of the bloom with the subtle menace of decay.",
+    "imageUrl": "/images/art/mixed_media_drawings/20250112_broken_things_9cec57fb.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "mixed-003",
+    "slug": "the-paws-of-fury",
+    "title": "The Paws of Fury",
+    "medium": "Mixed Media",
+    "date": "2025-12-29",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "Cat",
+      "Muay Thai",
+      "Boxer",
+      "Illustration",
+      "Animal Art"
+    ],
+    "description": "This vibrant illustration depicts a powerful black cat, anthropomorphized as a Muay Thai fighter, standing ready in the ring. The artist masterfully captures a blend of fierce athleticism and whimsical charm, highlighting the cat's muscular physique and intense, determined gaze.",
+    "imageUrl": "/images/art/mixed_media_drawings/20251229_paws_of_fury_cd36fb92.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "mixed-004",
+    "slug": "just-one-of-those-days",
+    "title": "Just One of Those Days",
+    "medium": "Mixed Media",
+    "date": "2025-12-03",
+    "width": "9",
+    "height": "10",
+    "tags": [
+      "Anguish",
+      "Panic",
+      "Expressionism",
+      "Figure Study",
+      "Visceral"
+    ],
+    "description": "The artwork uses vibrant pinks and deep blues to capture a moment of intense psychological distress. The figure's anguished pose, characterized by hands covering the face, conveys a raw, visceral scream of panic or despair.",
+    "imageUrl": "/images/art/mixed_media_drawings/20251230_just_one_of_those_days_6ae05121.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "mixed-005",
+    "slug": "basins-ascent",
+    "title": "Basin's Ascent",
+    "medium": "Mixed Media",
+    "date": "2025-02-22",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "figure study",
+      "wet environment",
+      "vulnerability",
+      "expressive drawing",
+      "physical struggle"
+    ],
+    "description": "This expressive drawing captures a moment of intense physical struggle, depicting a figure suspended within a damp, industrial environment. The subject's strained pose and direct gaze evoke themes of vulnerability, entrapment, and the resilience of the human form.",
+    "imageUrl": "/images/art/mixed_media_drawings/20250222_funny_games_f972082a.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "mixed-006",
+    "slug": "alien-cravings",
+    "title": "Alien Cravings",
+    "medium": "Mixed Media",
+    "date": "2025-12-31",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "Alien",
+      "Sci-Fi",
+      "Celestial",
+      "Bikini",
+      "Ocean"
+    ],
+    "description": "Don't you know it's rude to stare while a girl is having lunch?\n\nThis vibrant piece depicts an extraterrestrial figure enjoying a cosmic beach day beneath a crescent moon. The composition blends sci-fi whimsy with tropical romance, set against the backdrop of a magnificent, ringed planet.",
+    "imageUrl": "/images/art/mixed_media_drawings/20251231_alien_cravings_f4bf6505.webp",
+    "purchaseLinks": {}
+  },
+  {
+    "id": "mixed-007",
+    "slug": "the-violating-gaze",
+    "title": "The Violating Gaze",
+    "medium": "Mixed Media",
+    "date": "2025-12-24",
+    "width": "9",
+    "height": "12",
+    "tags": [
+      "Surrealism",
+      "psychological portrait",
+      "surveillance",
+      "anxiety",
+      "eyes"
+    ],
+    "description": "This surreal portrait captures a sense of profound psychological intensity, depicting a subject surrounded and consumed by a multitude of watchful, stylized eyes. The piece evokes themes of surveillance, paranoia, and the overwhelming nature of external scrutiny.",
+    "imageUrl": "/images/art/mixed_media_drawings/20251224_violation_422d8aa8.webp",
+    "purchaseLinks": {}
+  }
+]

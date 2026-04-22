@@ -24,8 +24,9 @@ export default function useFilter(pieces) {
 
   const filtered = useMemo(() => {
     return pieces.filter((piece) => {
+      const pieceYear = typeof piece.date === 'string' ? piece.date.split('-')[0] : piece.date;
       if (filters.medium && piece.medium !== filters.medium) return false;
-      if (filters.date   && piece.date   !== filters.date)   return false;
+      if (filters.date   && pieceYear !== filters.date)   return false;
       return true;
     });
   }, [pieces, filters]);

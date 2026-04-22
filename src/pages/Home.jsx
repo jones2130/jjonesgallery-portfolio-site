@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import ArtCard from '@/components/ArtCard';
 import SearchBar from '@/components/SearchBar';
 import useSearch from '@/hooks/useSearch';
-import portfolioData from '@/data/portfolioData';
+import portfolioData from '@/data/portfolioData.json';
 import './Home.css';
 
 export default function Home() {

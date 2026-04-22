@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import Fuse from 'fuse.js';
-import portfolioData from '@/data/portfolioData';
+import portfolioData from '@/data/portfolioData.json';
 
 const fuseOptions = {
   keys: ['title', 'tags', 'description', 'medium'],
