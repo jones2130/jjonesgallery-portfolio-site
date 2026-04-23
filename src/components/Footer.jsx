@@ -12,7 +12,7 @@ export default function Footer() {
         </p>
         <nav className="footer__links" aria-label="Footer navigation">
           <a
-            href="https://www.redbubble.com/"
+            href="https://www.redbubble.com/people/jamesjjonesart/shop/"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__link"
@@ -20,7 +20,7 @@ export default function Footer() {
             Redbubble
           </a>
           <a
-            href="https://ko-fi.com/"
+            href="https://ko-fi.com/jamesjjonesart"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__link"

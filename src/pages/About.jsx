@@ -32,12 +32,12 @@ export default function About() {
 
           <p>
             Prints and merchandise are available through{' '}
-            <a href="https://www.redbubble.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.redbubble.com/people/jamesjjonesart/shop/" target="_blank" rel="noopener noreferrer">
               Redbubble
             </a>
-            , and originals can be purchased directly through his{' '}
-            <a href="https://ko-fi.com/" target="_blank" rel="noopener noreferrer">
-              Ko-Fi shop
+            , and support and monetary donations can be made through his{' '}
+            <a href="https://ko-fi.com/jamesjjonesart" target="_blank" rel="noopener noreferrer">
+              Ko-Fi page
             </a>
             .
           </p>

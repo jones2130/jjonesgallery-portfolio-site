@@ -23,8 +23,8 @@ export default function Home() {
           </p>
           <div className="hero__actions">
             <Link to="/gallery" className="btn btn-primary">Explore Gallery</Link>
-            <a href="https://ko-fi.com/" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
-              Buy Originals on Ko-Fi
+            <a href="https://www.redbubble.com/people/jamesjjonesart/shop/" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
+              Buy Prints on Redbubble
             </a>
           </div>
         </div>
