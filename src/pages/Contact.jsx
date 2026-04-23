@@ -2,12 +2,46 @@ import React, { useState } from 'react';
 import './Contact.css';
 
 export default function Contact() {
-  const [submitted, setSubmitted] = useState(false);
+  const [status, setStatus] = useState('idle'); // 'idle' | 'loading' | 'success' | 'error'
+  const [errorMessage, setErrorMessage] = useState('');
 
-  const handleSubmit = (e) => {
+  const [formData, setFormData] = useState({
+    name: '',
+    email: '',
+    message: ''
+  });
+
+  const handleChange = (e) => {
+    setFormData(prev => ({
+      ...prev,
+      [e.target.id.replace('contact-', '')]: e.target.value
+    }));
+  };
+
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    // TODO: wire up to email service / API in v2
-    setSubmitted(true);
+    setStatus('loading');
+    setErrorMessage('');
+
+    try {
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(formData)
+      });
+
+      const data = await response.json();
+
+      if (!response.ok) {
+        throw new Error(data.error || 'Something went wrong');
+      }
+
+      setStatus('success');
+    } catch (err) {
+      console.error(err);
+      setStatus('error');
+      setErrorMessage(err.message || 'Failed to send message. Please try again later.');
+    }
   };
 
   return (
@@ -19,7 +53,7 @@ export default function Contact() {
             For commissions, inquiries, or just to say hello.
           </p>
 
-          {submitted ? (
+          {status === 'success' ? (
             <div className="contact-page__success">
               <p>Thanks for reaching out — I'll get back to you soon.</p>
             </div>
@@ -33,6 +67,9 @@ export default function Contact() {
                   className="input"
                   required
                   autoComplete="name"
+                  value={formData.name}
+                  onChange={handleChange}
+                  disabled={status === 'loading'}
                 />
               </div>
               <div className="contact-page__field">
@@ -43,6 +80,9 @@ export default function Contact() {
                   className="input"
                   required
                   autoComplete="email"
+                  value={formData.email}
+                  onChange={handleChange}
+                  disabled={status === 'loading'}
                 />
               </div>
               <div className="contact-page__field">
@@ -52,9 +92,23 @@ export default function Contact() {
                   className="input contact-page__textarea"
                   rows={6}
                   required
+                  value={formData.message}
+                  onChange={handleChange}
+                  disabled={status === 'loading'}
                 />
               </div>
-              <button type="submit" className="btn btn-primary">Send Message</button>
+              {status === 'error' && (
+                <div className="contact-page__error" style={{ color: '#ef4444', marginBottom: '1rem' }}>
+                  <p>{errorMessage}</p>
+                </div>
+              )}
+              <button
+                type="submit"
+                className="btn btn-primary"
+                disabled={status === 'loading'}
+              >
+                {status === 'loading' ? 'Sending...' : 'Send Message'}
+              </button>
             </form>
           )}
         </div>

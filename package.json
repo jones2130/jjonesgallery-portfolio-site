@@ -5,8 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:backend": "npx concurrently \"npm run dev\" \"npx wrangler pages dev --proxy 5173\"",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "npx wrangler pages deploy dist"
   },
   "author": "James J Jones",
   "license": "ISC",
