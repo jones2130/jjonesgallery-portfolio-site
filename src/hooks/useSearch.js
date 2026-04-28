@@ -6,7 +6,7 @@ const fuseOptions = {
   keys: ['title', 'tags', 'description', 'medium'],
   threshold: 0.35,        // 0 = exact, 1 = match anything
   includeScore: true,
-  minMatchCharLength: 2,
+  minMatchCharLength: 2
 };
 
 const fuse = new Fuse(portfolioData, fuseOptions);

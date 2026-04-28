@@ -18,6 +18,9 @@
 }
 
 .contact-page__label {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
   font-size: 0.8rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;

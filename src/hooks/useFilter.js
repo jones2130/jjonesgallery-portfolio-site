@@ -23,11 +23,17 @@ export default function useFilter(pieces) {
   const [filters, setFilters] = useState(DEFAULT_FILTERS);
 
   const filtered = useMemo(() => {
-    return pieces.filter((piece) => {
+    const results = pieces.filter((piece) => {
       const pieceYear = typeof piece.date === 'string' ? piece.date.split('-')[0] : piece.date;
       if (filters.medium && piece.medium !== filters.medium) return false;
-      if (filters.date   && pieceYear !== filters.date)   return false;
+      if (filters.date && pieceYear !== filters.date) return false;
       return true;
+    });
+
+    return results.sort((a, b) => {
+      const dateA = a.date ? new Date(a.date).getTime() : 0;
+      const dateB = b.date ? new Date(b.date).getTime() : 0;
+      return dateB - dateA;
     });
   }, [pieces, filters]);
 

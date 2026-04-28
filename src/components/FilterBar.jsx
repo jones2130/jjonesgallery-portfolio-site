@@ -1,5 +1,7 @@
 import React from 'react';
+import { Eye, EyeOff } from 'lucide-react';
 import portfolioData from '@/data/portfolioData.json';
+import { useNsfw } from '@/contexts/NsfwContext';
 import './FilterBar.css';
 
 const ALL_MEDIUMS = [...new Set(portfolioData.map((p) => p.medium))].sort();
@@ -14,6 +16,7 @@ const ALL_DATES = [...new Set(portfolioData.map((p) => getYear(p.date)))].sort((
  */
 export default function FilterBar({ filters, updateFilter, resetFilters }) {
   const hasActive = filters.medium || filters.date;
+  const { nsfwFilterEnabled, toggleNsfwFilter } = useNsfw();
 
   return (
     <div className="filter-bar">
@@ -48,6 +51,15 @@ export default function FilterBar({ filters, updateFilter, resetFilters }) {
           Clear Filters
         </button>
       )}
+
+      <button 
+        className={`filter-bar__nsfw-btn ${!nsfwFilterEnabled ? 'filter-bar__nsfw-btn--active' : ''}`}
+        onClick={toggleNsfwFilter}
+        title="Toggle NSFW content"
+      >
+        {!nsfwFilterEnabled ? <Eye size={22} /> : <EyeOff size={22} />}
+        <span className="filter-bar__nsfw-label">View NSFW</span>
+      </button>
     </div>
   );
 }

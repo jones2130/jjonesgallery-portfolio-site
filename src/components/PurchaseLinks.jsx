@@ -1,4 +1,6 @@
 import React from 'react';
+import RedbubbleIcon from './icons/RedbubbleIcon';
+import KofiIcon from './icons/KofiIcon';
 import './PurchaseLinks.css';
 
 /**
@@ -22,11 +24,7 @@ export default function PurchaseLinks({ links }) {
             rel="noopener noreferrer"
             className="btn btn-outline purchase-links__btn"
           >
-            {/* Redbubble icon placeholder */}
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
-              <circle cx="8" cy="8" r="7" stroke="currentColor" strokeWidth="1.5"/>
-              <circle cx="8" cy="8" r="3" fill="currentColor"/>
-            </svg>
+            <RedbubbleIcon size={16} />
             Prints &amp; Merch — Redbubble
           </a>
         )}
@@ -37,12 +35,7 @@ export default function PurchaseLinks({ links }) {
             rel="noopener noreferrer"
             className="btn btn-primary purchase-links__btn"
           >
-            {/* Ko-Fi cup icon */}
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
-              <path d="M2 4h9a3 3 0 0 1 0 6H2V4Z" stroke="currentColor" strokeWidth="1.5" strokeLinejoin="round"/>
-              <path d="M3 10v2" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
-              <path d="M9 10v2" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
-            </svg>
+            <KofiIcon size={16} />
             Buy Original — Ko-Fi
           </a>
         )}

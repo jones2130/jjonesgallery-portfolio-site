@@ -1,5 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { Mail } from 'lucide-react';
+import RedbubbleIcon from '@/components/icons/RedbubbleIcon';
+import KofiIcon from '@/components/icons/KofiIcon';
 import './Footer.css';
 
 export default function Footer() {
@@ -27,7 +30,9 @@ export default function Footer() {
           >
             Ko-Fi
           </a>
-          <Link to="/contact" className="footer__link">Contact</Link>
+          <Link to="/contact" className="footer__link">
+            Contact
+          </Link>
         </nav>
       </div>
     </footer>

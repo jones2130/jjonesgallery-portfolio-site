@@ -71,3 +71,41 @@
   color: var(--color-text-muted);
   letter-spacing: 0.04em;
 }
+
+.art-card__image--blurred {
+  filter: blur(20px);
+  transform: scale(1.1); /* Prevent blur edges from showing */
+}
+
+.art-card:hover .art-card__image--blurred {
+  transform: scale(1.15);
+}
+
+.art-card__nsfw-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  z-index: 2;
+  transition: background-color var(--transition);
+}
+
+.art-card__nsfw-text {
+  color: #fff;
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.5rem 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: var(--radius-sm);
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(4px);
+}
+
+.art-card:hover .art-card__nsfw-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}

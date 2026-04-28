@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { NavLink, Link } from 'react-router-dom';
+import { Palette, Info, Mail } from 'lucide-react';
 import './Navbar.css';
 
 const NAV_LINKS = [
-  { to: '/gallery', label: 'Gallery' },
-  { to: '/about',   label: 'About' },
-  { to: '/contact', label: 'Contact' },
+  { to: '/gallery', label: 'Gallery', icon: <Palette /> },
+  { to: '/about', label: 'About', icon: <Info /> },
+  { to: '/contact', label: 'Contact', icon: <Mail /> },
 ];
 
 export default function Navbar() {
@@ -27,7 +28,7 @@ export default function Navbar() {
 
         {/* Desktop nav */}
         <nav className="navbar__links" aria-label="Primary navigation">
-          {NAV_LINKS.map(({ to, label }) => (
+          {NAV_LINKS.map(({ to, label, icon }) => (
             <NavLink
               key={to}
               to={to}
@@ -35,6 +36,7 @@ export default function Navbar() {
                 `navbar__link${isActive ? ' navbar__link--active' : ''}`
               }
             >
+              {icon}
               {label}
             </NavLink>
           ))}
@@ -56,13 +58,14 @@ export default function Navbar() {
       {/* Mobile drawer */}
       {menuOpen && (
         <nav className="navbar__mobile" aria-label="Mobile navigation">
-          {NAV_LINKS.map(({ to, label }) => (
+          {NAV_LINKS.map(({ to, label, icon }) => (
             <NavLink
               key={to}
               to={to}
               className="navbar__mobile-link"
               onClick={() => setMenuOpen(false)}
             >
+              {icon}
               {label}
             </NavLink>
           ))}

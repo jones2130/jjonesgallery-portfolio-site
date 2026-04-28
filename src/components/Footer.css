@@ -23,6 +23,9 @@
 }
 
 .footer__link {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
   font-size: 0.8rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -31,4 +34,6 @@
   transition: color var(--transition);
 }
 
-.footer__link:hover { color: var(--color-accent); }
+.footer__link:hover {
+  color: var(--color-accent);
+}

@@ -12,6 +12,7 @@
  *   slug         — URL-safe string used in /art/:slug routing
  *   title        — display title
  *   medium       — 'Oil' | 'Acrylic' | 'Mixed Media'
+ *   nsfw         — optional: boolean, whether content is not safe for work
  *   date         — 4-digit year string (used for filtering/sorting)
  *   tags         — array of search/filter keywords
  *   description  — full piece description shown on ArtDetail page

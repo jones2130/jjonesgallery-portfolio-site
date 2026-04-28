@@ -1,14 +1,24 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import ArtCard from '@/components/ArtCard';
 import SearchBar from '@/components/SearchBar';
 import useSearch from '@/hooks/useSearch';
 import portfolioData from '@/data/portfolioData.json';
+import RedbubbleIcon from '@/components/icons/RedbubbleIcon';
+import { Palette } from 'lucide-react';
 import './Home.css';
 
 export default function Home() {
   const { query, setQuery, results } = useSearch();
-  const featured = portfolioData.slice(0, 3);
+  const featured = useMemo(() => {
+    return [...portfolioData]
+      .sort((a, b) => {
+        const dateA = a.date ? new Date(a.date).getTime() : 0;
+        const dateB = b.date ? new Date(b.date).getTime() : 0;
+        return dateB - dateA;
+      })
+      .slice(0, 3);
+  }, []);
 
   return (
     <div className="home">
@@ -22,8 +32,9 @@ export default function Home() {
             Oil, acrylic &amp; mixed media — available as prints and originals.
           </p>
           <div className="hero__actions">
-            <Link to="/gallery" className="btn btn-primary">Explore Gallery</Link>
-            <a href="https://www.redbubble.com/people/jamesjjonesart/shop/" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
+            <Link to="/gallery" className="btn btn-primary"><Palette />Explore Gallery</Link>
+            <a href="https://www.redbubble.com/people/jamesjjonesart/shop/" target="_blank" rel="noopener noreferrer" className="btn btn-outline" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+              <RedbubbleIcon size={18} />
               Buy Prints on Redbubble
             </a>
           </div>
