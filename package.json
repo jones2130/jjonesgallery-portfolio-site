@@ -8,7 +8,9 @@
     "dev:backend": "npx concurrently \"npm run dev\" \"npx wrangler pages dev --proxy 5173\"",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "npx wrangler pages deploy dist"
+    "deploy": "npx wrangler pages deploy dist",
+    "prebuild": "node scripts/generate-sitemap.js",
+    "generate-sitemap": "node scripts/generate-sitemap.js"
   },
   "author": "James J Jones",
   "license": "ISC",

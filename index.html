@@ -4,18 +4,54 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Primary SEO meta (title and description are updated per-page by React) -->
+  <title>James J Jones Gallery — Original Oil &amp; Acrylic Paintings</title>
   <meta name="description"
-    content="James J Jones Gallery — original paintings and prints in oil, acrylic, and mixed media." />
+    content="Explore original oil, acrylic, and mixed-media paintings by James J Jones. Prints available on Redbubble." />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://www.jamesjjonesgallery.com/" />
+
+  <!-- Open Graph base tags (updated per-page by the usePageMeta React hook) -->
+  <meta property="og:site_name" content="James J Jones Gallery" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="James J Jones Gallery" />
+  <meta property="og:description"
+    content="Explore original oil, acrylic, and mixed-media paintings by James J Jones. Prints available on Redbubble." />
+  <meta property="og:url" content="https://www.jamesjjonesgallery.com/" />
+  <meta property="og:image" content="https://www.jamesjjonesgallery.com/og-image.jpg" />
+
+  <!-- Twitter / X Card base tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="James J Jones Gallery" />
+  <meta name="twitter:description"
+    content="Original oil, acrylic, and mixed-media paintings by James J Jones." />
+  <meta name="twitter:image" content="https://www.jamesjjonesgallery.com/og-image.jpg" />
+
+  <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-
   <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Rosarivo:ital@0;1&display=swap" rel="stylesheet">
   <link
     href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Inter:wght@300;400;500&display=swap"
     rel="stylesheet" />
-  <title>James J Jones Gallery</title>
+
+  <!-- Google Analytics (GA4) — G-8FCKKHPRG9                                -->
+  <!-- Loaded before React so the dataLayer is ready immediately.               -->
+  <!-- send_page_view: false — the useAnalytics hook fires page_view events     -->
+  <!-- manually on every React Router navigation to avoid double-counting.      -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8FCKKHPRG9"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-8FCKKHPRG9', { send_page_view: false });
+  </script>
 </head>
 
 <body>

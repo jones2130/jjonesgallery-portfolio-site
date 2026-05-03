@@ -8,10 +8,19 @@ import ArtDetail from '@/pages/ArtDetail';
 import About from '@/pages/About';
 import Contact from '@/pages/Contact';
 import NotFound from '@/pages/NotFound';
+import useAnalytics from '@/hooks/useAnalytics';
+import useOutboundTracking from '@/hooks/useOutboundTracking';
 
-const AdminMigrate = import.meta.env.DEV ? lazy(() => import('@/pages/AdminMigrate')) : null;
+const AdminMigrate = import.meta.env.DEV
+  ? lazy(() => import('@/pages/AdminMigrate'))
+  : null;
 
 export default function App() {
+  // Fire a GA4 page_view on every React Router navigation
+  useAnalytics();
+  // Automatically track outbound link clicks (Redbubble, Ko-Fi, etc.)
+  useOutboundTracking();
+
   return (
     <div className="site-wrapper">
       <Navbar />
@@ -23,13 +32,13 @@ export default function App() {
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           {import.meta.env.DEV && AdminMigrate && (
-            <Route 
-              path="/admin/migrate" 
+            <Route
+              path="/admin/migrate"
               element={
                 <Suspense fallback={<div>Loading Admin...</div>}>
                   <AdminMigrate />
                 </Suspense>
-              } 
+              }
             />
           )}
           <Route path="*" element={<NotFound />} />

@@ -1,9 +1,34 @@
 import React from 'react';
+import StructuredData from '@/components/StructuredData';
+import usePageMeta from '@/hooks/usePageMeta';
 import './About.css';
 
+const PERSON_SCHEMA = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: 'James J Jones',
+  url: 'https://www.jamesjjonesgallery.com/about',
+  sameAs: [
+    'https://www.redbubble.com/people/jamesjjonesart/shop/',
+    'https://ko-fi.com/jamesjjonesart',
+    'https://www.linkedin.com/in/james-jones-a3472826',
+  ],
+  jobTitle: 'Visual Artist',
+  description:
+    'Visual artist working primarily in oil, acrylic, and mixed media. His work explores the interplay of light, landscape, and memory.',
+};
+
 export default function About() {
+  usePageMeta({
+    title: 'About',
+    description:
+      'Learn about artist James J Jones and his practice in oil, acrylic, and mixed media painting.',
+    url: '/about',
+  });
+
   return (
     <div className="about-page page-section">
+      <StructuredData schema={PERSON_SCHEMA} />
       <div className="container about-page__layout">
         {/* Sidebar placeholder for portrait */}
         <div className="about-page__image-wrap">

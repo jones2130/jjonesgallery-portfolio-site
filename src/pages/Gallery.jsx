@@ -4,9 +4,17 @@ import SearchBar from '@/components/SearchBar';
 import FilterBar from '@/components/FilterBar';
 import useSearch from '@/hooks/useSearch';
 import useFilter from '@/hooks/useFilter';
+import usePageMeta from '@/hooks/usePageMeta';
 import './Gallery.css';
 
 export default function Gallery() {
+  usePageMeta({
+    title: 'Gallery',
+    description:
+      'Browse all original works by James J Jones — oil, acrylic, and mixed-media paintings available as prints and originals.',
+    url: '/gallery',
+  });
+
   const { query, setQuery, results } = useSearch();
   const { filters, updateFilter, resetFilters, filtered } = useFilter(results);
 

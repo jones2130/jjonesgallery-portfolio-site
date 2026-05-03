@@ -1,21 +1,21 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import usePageMeta from '@/hooks/usePageMeta';
 
 export default function NotFound() {
+  usePageMeta({
+    title: 'Page Not Found',
+    description: 'The page you are looking for could not be found. Return to the James J Jones Gallery.',
+  });
+
   return (
-    <div style={{ textAlign: 'center', padding: 'var(--space-2xl) var(--space-lg)' }}>
-      <p style={{ fontSize: '0.75rem', letterSpacing: '0.18em', textTransform: 'uppercase', color: 'var(--color-accent)', marginBottom: 'var(--space-md)' }}>
-        404
-      </p>
-      <h1 style={{ fontFamily: 'var(--font-display)', fontSize: 'clamp(2.5rem, 6vw, 4rem)', marginBottom: 'var(--space-lg)' }}>
-        Page Not Found
-      </h1>
-      <p style={{ color: 'var(--color-text-muted)', marginBottom: 'var(--space-xl)' }}>
-        This page doesn't exist, or the work has moved.
-      </p>
-      <div style={{ display: 'flex', gap: 'var(--space-md)', justifyContent: 'center', flexWrap: 'wrap' }}>
-        <Link to="/" className="btn btn-primary">Go Home</Link>
-        <Link to="/gallery" className="btn btn-outline">Browse Gallery</Link>
+    <div className="page-section" style={{ textAlign: 'center' }}>
+      <div className="container">
+        <h1 style={{ fontSize: '6rem', margin: 0, opacity: 0.2 }}>404</h1>
+        <p style={{ fontSize: '1.25rem', marginBottom: 'var(--space-lg)' }}>
+          Page not found.
+        </p>
+        <Link to="/" className="btn btn-outline">← Back to Gallery</Link>
       </div>
     </div>
   );

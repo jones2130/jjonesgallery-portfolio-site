@@ -2,12 +2,36 @@ import React from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import portfolioData from '@/data/portfolioData.json';
 import PurchaseLinks from '@/components/PurchaseLinks';
+import StructuredData from '@/components/StructuredData';
+import usePageMeta from '@/hooks/usePageMeta';
 import './ArtDetail.css';
 
 export default function ArtDetail() {
   const { slug } = useParams();
   const navigate = useNavigate();
   const piece = portfolioData.find((p) => p.slug === slug);
+
+  // ── Meta for "not found" state ───────────────────────────────────────────
+  usePageMeta(
+    piece
+      ? {
+          title:       piece.title,
+          description: piece.description
+            ? piece.description.slice(0, 155)
+            : `${piece.title} — ${piece.medium}, ${piece.date}. Original work by James J Jones.`,
+          image:       piece.imageUrl?.startsWith('http')
+            ? piece.imageUrl
+            : piece.imageUrl
+              ? `https://www.jamesjjonesgallery.com${piece.imageUrl}`
+              : undefined,
+          url:         `/art/${slug}`,
+          type:        'article',
+        }
+      : {
+          title:       'Work Not Found',
+          description: 'This artwork could not be found. Browse the James J Jones Gallery for available works.',
+        }
+  );
 
   if (!piece) {
     return (
@@ -25,8 +49,32 @@ export default function ArtDetail() {
 
   const { title, medium, date, height, width, tags, description, imageUrl, purchaseLinks } = piece;
 
+  const artworkSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'VisualArtwork',
+    name: title,
+    description: description || `${title} — ${medium}, ${date}.`,
+    image: imageUrl?.startsWith('http')
+      ? imageUrl
+      : `https://www.jamesjjonesgallery.com${imageUrl}`,
+    url: `https://www.jamesjjonesgallery.com/art/${slug}`,
+    dateCreated: date,
+    artMedium: medium,
+    ...(height && width
+      ? { width: `${width} inches`, height: `${height} inches` }
+      : {}),
+    creator: {
+      '@type': 'Person',
+      name: 'James J Jones',
+      url: 'https://www.jamesjjonesgallery.com/',
+    },
+    artworkSurface: medium,
+    keywords: tags ? tags.join(', ') : '',
+  };
+
   return (
     <article className="art-detail page-section fade-up">
+      <StructuredData schema={artworkSchema} />
       <div className="container">
         {/* Back nav */}
         <button className="art-detail__back" onClick={() => navigate(-1)}>

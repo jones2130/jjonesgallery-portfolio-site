@@ -3,9 +3,17 @@ import { User, Mail, MessageSquare, Briefcase } from 'lucide-react';
 import RedbubbleIcon from '@/components/icons/RedbubbleIcon';
 import KofiIcon from '@/components/icons/KofiIcon';
 import LinkedInIcon from '@/components/icons/Linkedin';
+import usePageMeta from '@/hooks/usePageMeta';
 import './Contact.css';
 
 export default function Contact() {
+  usePageMeta({
+    title: 'Contact',
+    description:
+      'Commission a painting or get in touch with artist James J Jones. Available for commissions, inquiries, and collaborations.',
+    url: '/contact',
+  });
+
   const [status, setStatus] = useState('idle'); // 'idle' | 'loading' | 'success' | 'error'
   const [errorMessage, setErrorMessage] = useState('');
 
@@ -41,10 +49,26 @@ export default function Contact() {
       }
 
       setStatus('success');
+
+      // GA4: track successful form submission
+      if (typeof window.gtag === 'function') {
+        window.gtag('event', 'contact_form_submit', {
+          event_category: 'engagement',
+          event_label:    'contact_success',
+        });
+      }
     } catch (err) {
       console.error(err);
       setStatus('error');
       setErrorMessage(err.message || 'Failed to send message. Please try again later.');
+
+      // GA4: track form submission error
+      if (typeof window.gtag === 'function') {
+        window.gtag('event', 'contact_form_error', {
+          event_category: 'engagement',
+          event_label:    err.message || 'unknown_error',
+        });
+      }
     }
   };
 
