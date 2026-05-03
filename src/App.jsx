@@ -10,6 +10,7 @@ import Contact from '@/pages/Contact';
 import NotFound from '@/pages/NotFound';
 import useAnalytics from '@/hooks/useAnalytics';
 import useOutboundTracking from '@/hooks/useOutboundTracking';
+import ScrollToTop from '@/components/ScrollToTop';
 
 const AdminMigrate = import.meta.env.DEV
   ? lazy(() => import('@/pages/AdminMigrate'))
@@ -23,6 +24,7 @@ export default function App() {
 
   return (
     <div className="site-wrapper">
+      <ScrollToTop />
       <Navbar />
       <main className="site-main">
         <Routes>
